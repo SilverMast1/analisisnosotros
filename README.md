@@ -1,6 +1,6 @@
-# Gabriel & Alexa | Auditoría Integral de Pareja (25 Green Flags, 25 Red Flags & 30 Ideas de Mejora)
+# Gabriel & Alexa | Suite Integral de Pareja (30 Green Flags, 30 Red Flags & 30 Ideas de Mejora)
 
-Este repositorio contiene la auditoría forense exhaustiva y visualización interactiva de **108,144 mensajes** compartidos a lo largo de **405 días activos** (2,044 páginas de historial de WhatsApp) entre **Gabriel y Alexa**, con citas textuales directas en cada fortaleza y área de oportunidad, más un plan integral de **30 ideas prácticas de mejora** divididas en 6 dimensiones.
+Este repositorio contiene la auditoría forense exhaustiva y visualización interactiva de **108,144 mensajes** compartidos a lo largo de **405 días activos** (2,044 páginas de historial de WhatsApp) entre **Gabriel y Alexa**, con citas textuales directas en cada fortaleza y área de oportunidad, más un plan integral de **30 ideas prácticas de mejora**.
 
 ---
 
@@ -8,7 +8,7 @@ Este repositorio contiene la auditoría forense exhaustiva y visualización inte
 
 El portal web interactivo contiene:
 
-1. **🌿 25 Green Flags con Citas Reales del Chat:**
+1. **🌿 30 Green Flags con Citas Reales del Chat:**
    - 1. Presencia Diaria Ininterrumpida (405 días) — *"Buenos días hermosa"* / *"Buenos días criatura ✨❤️"*.
    - 2. Soporte y Equipo Académico — *"Te amoooo❤✨ Suerte 🍀🥳✨"* en exámenes.
    - 3. Actos de Servicio Cotidiano — Compras con el barbas y esperas entre salones.
@@ -34,8 +34,13 @@ El portal web interactivo contiene:
    - 23. Memoria y Celebración de Fechas Juntos — Primer aniversario y recuerdos.
    - 24. Respaldo y Empatía en Dolor Físico — Consuelo ante malestares y desvelos.
    - 25. Capacidad de Auto-Corrección Verbal — Cuidar las palabras editando mensajes.
+   - 26. Cuidado en Clima Extremo y Lluvias — Paraguas, chamarras y prevención.
+   - 27. Paciencia ante Momentos de Mal Humor — Serenidad ante el carácter fuerte.
+   - 28. Micro-Regalos Digitales (Reels y Memes) — Mantener la alegría cotidiana.
+   - 29. Entusiasmo por Anécdotas Simples — Disfrutar de lo ordinario de la vida.
+   - 30. Seguridad para Mostrar Vulnerabilidad y Llanto — Desahogo sin juicios.
 
-2. **🚩 25 Red Flags con Citas Reales & Guía de Transformación:**
+2. **🚩 30 Red Flags con Citas Reales & Guía de Transformación:**
    - 1. Auto-Inculpación Compulsiva (Gabriel) — *"Perdón por molestarte, yo tuve la culpa"*.
    - 2. Ley del Hielo y Respuestas Tajantes (Alexa) — *"✌️ Ahí queda mijo / Y no vuelvas"*.
    - 3. Ráfagas de Mensajes e Impaciencia (Gabriel) — Ráfagas de 10 mensajes seguidos.
@@ -61,6 +66,11 @@ El portal web interactivo contiene:
    - 23. Descuido del Sueño por el Chat — Madrugadas en pantalla afectando la energía.
    - 24. Micro-Celos o Comentarios sobre Redes — Insinuaciones que siembran dudas.
    - 25. Dudas sobre si Incomoda el Cariño (Gabriel) — Miedo a que sus detalles sean molestos.
+   - 26. Personalización del Mal Humor Ajeno (Gabriel) — Creer que el desánimo del otro es culpa propia.
+   - 27. Sarcasmo Defensivo ante el Desacuerdo (Alexa) — Protegerse con ironías.
+   - 28. Aplazar Horas de Comida por Esperar al Otro — Retrasar la alimentación por el chat.
+   - 29. Llevar la Carga Universitaria a la Pareja — Contaminar el espacio íntimo con tareas.
+   - 30. Miedo al Conflicto que Produce Pasividad (Gabriel) — Callar opiniones por no molestar.
 
 3. **💡 30 Ideas Prácticas de Mejora en 6 Dimensiones:**
    - **Comunicación Diaria:** Regla de 20 minutos, filtro texto vs presencial, aviso de desconexión, antídoto de demoras, erradicación del monosílabo.
