@@ -1,6 +1,6 @@
-# Gabriel & Alexa | Auditoría Integral con Citas Textuales (2025 - 2026)
+# Gabriel & Alexa | Auditoría Integral de Pareja (25 Green Flags, 25 Red Flags & 30 Ideas de Mejora)
 
-Este repositorio contiene el estudio forense y visualización interactiva de **108,144 mensajes** compartidos a lo largo de **405 días activos** (2,044 páginas de historial de WhatsApp) entre **Gabriel y Alexa**, con citas textuales directas en cada fortaleza y área de oportunidad, más un plan integral de 8 protocolos prácticos.
+Este repositorio contiene la auditoría forense exhaustiva y visualización interactiva de **108,144 mensajes** compartidos a lo largo de **405 días activos** (2,044 páginas de historial de WhatsApp) entre **Gabriel y Alexa**, con citas textuales directas en cada fortaleza y área de oportunidad, más un plan integral de **30 ideas prácticas de mejora** divididas en 6 dimensiones.
 
 ---
 
@@ -8,7 +8,7 @@ Este repositorio contiene el estudio forense y visualización interactiva de **1
 
 El portal web interactivo contiene:
 
-1. **🌿 20 Green Flags con Citas Reales del Chat:**
+1. **🌿 25 Green Flags con Citas Reales del Chat:**
    - 1. Presencia Diaria Ininterrumpida (405 días) — *"Buenos días hermosa"* / *"Buenos días criatura ✨❤️"*.
    - 2. Soporte y Equipo Académico — *"Te amoooo❤✨ Suerte 🍀🥳✨"* en exámenes.
    - 3. Actos de Servicio Cotidiano — Compras con el barbas y esperas entre salones.
@@ -29,8 +29,13 @@ El portal web interactivo contiene:
    - 18. Uso Frecuente de Audios y Llamadas — +500 llamadas y notas de voz.
    - 19. Cuidado Mutuo de la Intimidad — Respeto por el consentimiento y la comodidad.
    - 20. Deseo Compartido de Crecer Juntos — Proyección hacia el futuro.
+   - 21. Protección en Desplazamientos y Transporte — *"Vete con cuidado" / "Llegué"*.
+   - 22. Intercambio y Recomendación de Música — Canciones para trayectos compartidos.
+   - 23. Memoria y Celebración de Fechas Juntos — Primer aniversario y recuerdos.
+   - 24. Respaldo y Empatía en Dolor Físico — Consuelo ante malestares y desvelos.
+   - 25. Capacidad de Auto-Corrección Verbal — Cuidar las palabras editando mensajes.
 
-2. **🚩 20 Red Flags con Citas Reales & Guía de Transformación:**
+2. **🚩 25 Red Flags con Citas Reales & Guía de Transformación:**
    - 1. Auto-Inculpación Compulsiva (Gabriel) — *"Perdón por molestarte, yo tuve la culpa"*.
    - 2. Ley del Hielo y Respuestas Tajantes (Alexa) — *"✌️ Ahí queda mijo / Y no vuelvas"*.
    - 3. Ráfagas de Mensajes e Impaciencia (Gabriel) — Ráfagas de 10 mensajes seguidos.
@@ -51,16 +56,19 @@ El portal web interactivo contiene:
    - 18. Colgar Llamadas sin Explicación — Desconcierto por llamadas cortadas.
    - 19. Inseguridad sobre Límites de Contacto Físico — Dudas no habladas abiertamente.
    - 20. Acumulación Silenciosa de Malestares — Olla de presión que estalla en frialdad.
+   - 21. Ansiedad por Estado de Batería (Gabriel) — Alarmarse ante desconexión técnica.
+   - 22. Uso de Apodos Distantes por Enojo (Alexa) — Cambiar a un seco 'Mijo' como castigo.
+   - 23. Descuido del Sueño por el Chat — Madrugadas en pantalla afectando la energía.
+   - 24. Micro-Celos o Comentarios sobre Redes — Insinuaciones que siembran dudas.
+   - 25. Dudas sobre si Incomoda el Cariño (Gabriel) — Miedo a que sus detalles sean molestos.
 
-3. **💡 Plan Integral de Mejora (8 Protocolos Prácticos):**
-   - Protocolo 1: La Regla de los 20 Minutos (Termostato Emocional).
-   - Protocolo 2: Erradicación de la Disculpa Sumisa (Para Gabriel).
-   - Protocolo 3: El 'Cariño Seguro' y Moderación del Humor (Para Alexa).
-   - Protocolo 4: Separación de Canales (Texto vs Presencial).
-   - Protocolo 5: El 'Check-In' Semanal de 10 Minutos.
-   - Protocolo 6: El Puente de los Lenguajes del Amor.
-   - Protocolo 7: Coordinación de Horarios y Espacio Personal.
-   - Protocolo 8: Regla del Cierre Nocturno en Paz.
+3. **💡 30 Ideas Prácticas de Mejora en 6 Dimensiones:**
+   - **Comunicación Diaria:** Regla de 20 minutos, filtro texto vs presencial, aviso de desconexión, antídoto de demoras, erradicación del monosílabo.
+   - **Seguridad y Autoestima (Gabriel):** Prohibición de disculpa sumisa, pregunta de contención serena, confianza en 405 días, respeto a horarios de estudio, tolerancia al silencio.
+   - **Afecto y Claridad (Alexa):** Regla del cariño seguro, expresión asertiva de quejas, reemplazo de narrativa de abandono, afecto verbal espontáneo, validación de desahogos.
+   - **Manejo de Conflictos:** Check-in semanal de 10 min, regla de cierre nocturno en paz, cero amenazas de ruptura, abrazo presencial de 10 seg, reparación con propósito.
+   - **Tiempo de Calidad:** Micro-citas escolares de 15 min, cita quincenal fuera de rutina, rituales de Roblox y cine, coordinación matutina, celebración de logros.
+   - **Salud y Visión de Futuro:** Monitoreo activo de descanso/hidratación, reciprocidad en gastos, límites físicos claros, blindaje contra estrés ajeno, visión de equipo indestructible.
 
 4. **📊 Métricas & Gráficos Dinámicos (Chart.js):**
    - Evolución mensual a lo largo de 19 meses.
