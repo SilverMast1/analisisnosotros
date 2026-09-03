@@ -1,0 +1,8 @@
+# Logs and temporary files
+*.log
+__pycache__/
+.vscode/
+.idea/
+
+# Large binary/raw files
+copia.pdf
