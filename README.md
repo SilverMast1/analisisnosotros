@@ -86,10 +86,10 @@ El portal web interactivo contiene:
    - Comparativa de vocabulario de cariño (*"Te amo"*, *"Corazón"*, *"Hermosa"*, etc.).
    - Proporción entre texto verbal y stickers/fotos.
 
-5. **🧠 Dictamen & Perspectiva de la IA (Gabriel, Alexa y la Relación en General):**
-   - **Diagnóstico de Gabriel:** "El Guardián Devoto" — Apego ansioso, virtudes de servicio y validación estética incondicional ("100000/10 autorizo"), y puntos ciegos (auto-inculpación compulsiva y catastrofismo ante demoras).
-   - **Diagnóstico de Alexa:** "El Ancla Pragmática" — Apego evitativo-protector, constancia inquebrantable (405 días sin falta), reina de stickers y humor (62% de multimedia), y puntos ciegos (la ley del hielo "✌️ ahí queda mijo" y sarcasmo defensivo).
-   - **Diagnóstico de la Relación:** Análisis sistémico de la "Danza Ansioso-Evitativa", pilares que la sostienen, matriz de complementariedad y pronóstico altamente favorable (**9.5 / 10**).
+5. **🧠 Dictamen & Perspectiva Psicológica de la IA (Gabriel, Alexa y la Relación):**
+   - **Diagnóstico Profundo de Gabriel:** "El Guardián Devoto y Caballero Activo" (Eneagrama 2w1, Apego Ansioso-Preocupado). Análisis de Big Five (Amabilidad 98%, Cuidado 94%, Reactividad 85%), jerarquía de lenguajes de amor (Palabras de afirmación + Actos de servicio), superpoderes de protección y admiración estética incondicional ("100000/10 autorizo"), trampa inconsciente de la auto-inculpación compulsiva y su plan de trabajo personal (la regla del celular boca abajo y erradicación de la disculpa sumisa).
+   - **Diagnóstico Profundo de Alexa:** "El Ancla Pragmática y la Fortaleza Lúdica" (Eneagrama 8w9/9w8, Apego Evitativo-Protector). Análisis de Big Five (Constancia 100%, Apertura lúdica 96%, Autonomía 92%), jerarquía de lenguajes de amor (Presencia incondicional 405 días + Humor y más de 11,500 stickers y apodos íntimos), cuidado práctico de la salud y economía, mecanismo de desactivación bajo estrés (muralla de hielo "✌️ ahí queda mijo" y sarcasmo defensivo) y su plan de crecimiento (la regla de la salida suave y apertura a la ternura directa).
+   - **Diagnóstico Holístico de la Relación:** Los 4 pilares inamovibles (Constancia, Cero toxicidad, Amistad real, Equipo académico), radiografía sistémica de la "Danza Ansioso-Evitativa", matriz cruzada de lecciones de vida ("¿Qué le enseña cada uno al otro?") y pronóstico relacional definitivo: **9.5 / 10 (Sobresaliente)**.
 
 
 ---
