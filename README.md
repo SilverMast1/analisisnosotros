@@ -86,6 +86,12 @@ El portal web interactivo contiene:
    - Comparativa de vocabulario de cariño (*"Te amo"*, *"Corazón"*, *"Hermosa"*, etc.).
    - Proporción entre texto verbal y stickers/fotos.
 
+5. **🧠 Dictamen & Perspectiva de la IA (Gabriel, Alexa y la Relación en General):**
+   - **Diagnóstico de Gabriel:** "El Guardián Devoto" — Apego ansioso, virtudes de servicio y validación estética incondicional ("100000/10 autorizo"), y puntos ciegos (auto-inculpación compulsiva y catastrofismo ante demoras).
+   - **Diagnóstico de Alexa:** "El Ancla Pragmática" — Apego evitativo-protector, constancia inquebrantable (405 días sin falta), reina de stickers y humor (62% de multimedia), y puntos ciegos (la ley del hielo "✌️ ahí queda mijo" y sarcasmo defensivo).
+   - **Diagnóstico de la Relación:** Análisis sistémico de la "Danza Ansioso-Evitativa", pilares que la sostienen, matriz de complementariedad y pronóstico altamente favorable (**9.5 / 10**).
+
+
 ---
 
 ## 📊 Métricas Globales del Análisis
