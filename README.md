@@ -1,6 +1,6 @@
-# Gabriel & Alexa | Análisis Integral de Pareja (15 Green Flags & 15 Red Flags)
+# Gabriel & Alexa | Análisis Integral de Pareja (20 Green Flags & 20 Red Flags)
 
-Este repositorio contiene un estudio forense exhaustivo y visualización interactiva de **108,144 mensajes** compartidos a lo largo de **405 días activos** (2,044 páginas de historial de WhatsApp) entre **Gabriel y Alexa**, diseñado para celebrar las fortalezas del vínculo y transformar las áreas de oportunidad.
+Este repositorio contiene la auditoría forense exhaustiva y visualización interactiva de **108,144 mensajes** compartidos a lo largo de **405 días activos** (2,044 páginas de historial de WhatsApp) entre **Gabriel y Alexa**, diseñado para celebrar las fortalezas del vínculo y transformar las áreas de oportunidad.
 
 ---
 
@@ -8,39 +8,49 @@ Este repositorio contiene un estudio forense exhaustivo y visualización interac
 
 El portal web interactivo contiene:
 
-1. **🌿 15 Grandes Green Flags (Nuestras Fortalezas Sólidas):**
+1. **🌿 20 Grandes Green Flags (Nuestras Fortalezas Sólidas):**
    - 1. Presencia Diaria Ininterrumpida (405 días continuos sin silencios).
    - 2. Soporte y Equipo Académico (desvelos y motivación en exámenes pesados).
-   - 3. Actos de Servicio y Ayuda (compras, comida y esperas entre clases).
+   - 3. Actos de Servicio Cotidiano (compras, comida y esperas entre clases).
    - 4. Cuidado Físico y de Salud (comida a tiempo, hidratación en el calor y descanso).
    - 5. Complicidad y Humor Íntimo (+18,600 fotos/stickers y apodos de cariño).
    - 6. Validación Estética Continua (*"100000/10"*, *"Autorizo"*, *"Me encantas"*).
    - 7. Voluntad de Reconciliación Rápida (ningún conflicto dura días).
-   - 8. Transparencia Espontánea de Rutinas (avisos naturales de salidas y clases).
+   - 8. Transparencia Espontánea (avisos naturales de salidas y clases).
    - 9. Lealtad y Exclusividad Total (cero indicios de terceros en 19 meses).
    - 10. Inclusión Familiar Natural (anécdotas de hermanos, papás y abuelitas).
    - 11. Hobbies y Planes Compartidos (Roblox, cine Spider-Man, música).
-   - 12. Reciprocidad y Apoyo Práctico (coordinación justa con gastos y comida).
+   - 12. Reciprocidad Práctica y Económica (coordinación justa con gastos y comida).
    - 13. Refugio Emocional sin Juicios (escucha activa ante problemas externos).
    - 14. Prioridad de Verse en Persona (aprovechar descansos y abrazos reales).
    - 15. Aceptación Auténtica del Otro (elegirse en días buenos y difíciles).
+   - 16. Búsqueda Constante de Consejo Mutuo (outfits, fotos de perfil, peinados).
+   - 17. Acompañamiento en el Despertar y Sueño (monitoreo mutuo del descanso).
+   - 18. Uso Frecuente de Audios y Llamadas (+500 interacciones por voz).
+   - 19. Cuidado Mutuo de la Intimidad (preocupación por la comodidad del otro).
+   - 20. Deseo Compartido de Crecer Juntos (proyección hacia el futuro).
 
-2. **🚩 15 Red Flags (Puntos a Pulir & Guía para Sanarlos):**
+2. **🚩 20 Red Flags (Puntos a Pulir & Guía para Sanarlos):**
    - 1. Auto-Inculpación Compulsiva y Sobre-Disculpa (Gabriel).
-   - 2. Ley del Hielo y Respuestas Cortantes / Stonewalling (Alexa).
+   - 2. Ley del Hielo y Respuestas Tajantes / Stonewalling (Alexa).
    - 3. Ráfagas de Mensajes e Impaciencia ante la Frialdad (Gabriel).
    - 4. El "Rechazo de Broma" en Momentos Sensibles (Alexa).
    - 5. Narrativa de Abandono como Test de Cariño (Alexa).
-   - 6. Búsqueda Constante de Validación (Gabriel).
-   - 7. Dificultad para Expresar Necesidades con Claridad (Alexa).
+   - 6. Búsqueda Constante de Validación por Miedo (Gabriel).
+   - 7. Dificultad para Expresar Necesidades de Forma Directa (Alexa).
    - 8. Dificultad para Sostener Límites Personales (Gabriel).
    - 9. Asimetría en la Expresión de Afecto Verbal (Dinámica).
-   - 10. Intentar Resolver Desacuerdos por Texto (Ambos).
+   - 10. Intentar Resolver Fricciones Complejas por Texto (Ambos).
    - 11. Minimización de las Incomodidades del Otro (Alexa).
    - 12. Fantasías Catastróficas ante Demoras Normales (Gabriel).
    - 13. Volcar Frustraciones Externas en la Pareja (Ambos).
    - 14. Barrer los Conflictos bajo la Alfombra (Ambos).
    - 15. Expectativas No Habladas de Horarios y Planes (Ambos).
+   - 16. Edición y Eliminación de Mensajes por Inseguridad (Ambos).
+   - 17. Confundir Cansancio Físico con Desinterés Afectivo (Gabriel).
+   - 18. Colgar Llamadas o Salirse sin Explicación Previa (Ambos).
+   - 19. Inseguridad y Comentarios sobre Límites de Contacto Físico (Ambos).
+   - 20. Acumulación Silenciosa de Malestares / Olla de Presión (Ambos).
 
 3. **📊 Métricas & Gráficos Dinámicos (Chart.js):**
    - Evolución mensual a lo largo de 19 meses.

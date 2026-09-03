@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Gabriel & Alexa | Análisis Integral de Green Flags & Red Flags (2025 - 2026)</title>
+    <title>Gabriel & Alexa | Auditoría Exhaustiva: 20 Green Flags & 20 Red Flags</title>
     <!-- Tailwind CSS CDN -->
     <script src="https://cdn.tailwindcss.com"></script>
     <!-- Chart.js CDN -->
@@ -20,18 +20,18 @@
 
         body {
             font-family: var(--font-sans);
-            background-color: #080c14;
+            background-color: #070a12;
             color: #f1f5f9;
         }
 
         .glass-panel {
-            background: rgba(15, 23, 42, 0.8);
+            background: rgba(15, 23, 42, 0.82);
             backdrop-filter: blur(16px);
             border: 1px solid rgba(255, 255, 255, 0.08);
         }
 
         .glass-card {
-            background: rgba(20, 30, 52, 0.85);
+            background: rgba(18, 28, 50, 0.85);
             backdrop-filter: blur(16px);
             border: 1px solid rgba(255, 255, 255, 0.08);
             transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
@@ -39,8 +39,8 @@
 
         .glass-card:hover {
             transform: translateY(-2px);
-            border-color: rgba(99, 102, 241, 0.35);
-            box-shadow: 0 12px 30px -10px rgba(0, 0, 0, 0.5);
+            border-color: rgba(99, 102, 241, 0.4);
+            box-shadow: 0 12px 30px -10px rgba(0, 0, 0, 0.6);
         }
 
         .badge-green {
@@ -88,7 +88,7 @@
 
     <!-- Top Banner -->
     <div class="bg-gradient-to-r from-indigo-950 via-slate-900 to-rose-950 border-b border-indigo-500/20 py-2.5 px-4 text-center text-xs text-slate-300">
-        ✨ <b>Estudio Forense de Pareja:</b> Análisis completo de 108,144 mensajes (2,044 páginas) entre Gabriel & Alexa. 15 Green Flags y 15 Red Flags con guía de sanación.
+        ✨ <b>Auditoría Exhaustiva de Pareja:</b> Análisis forense de 108,144 mensajes (2,044 páginas) entre Gabriel & Alexa. Catálogo definitivo de 20 Green Flags y 20 Red Flags.
     </div>
 
     <!-- Navigation Header -->
@@ -101,7 +101,7 @@
                 <div>
                     <h1 class="text-xl font-bold text-white flex items-center gap-2">
                         Gabriel & Alexa
-                        <span class="text-[11px] px-2.5 py-0.5 rounded-full bg-rose-500/10 text-rose-300 border border-rose-500/20 font-medium">15 Green Flags & 15 Red Flags</span>
+                        <span class="text-[11px] px-2.5 py-0.5 rounded-full bg-rose-500/10 text-rose-300 border border-rose-500/20 font-medium">Catálogo 20 & 20</span>
                     </h1>
                     <p class="text-xs text-slate-400">108,144 Mensajes | 405 Días Activos | Ene 2025 – Sep 2026</p>
                 </div>
@@ -113,10 +113,10 @@
                     <i data-lucide="calendar" class="w-3.5 h-3.5"></i> 405 Días Activos
                 </span>
                 <span class="px-3 py-1.5 rounded-xl bg-emerald-500/10 border border-emerald-500/20 text-emerald-300 font-semibold flex items-center gap-1.5">
-                    <i data-lucide="sparkles" class="w-3.5 h-3.5"></i> 15 Green Flags
+                    <i data-lucide="sparkles" class="w-3.5 h-3.5"></i> 20 Green Flags
                 </span>
                 <span class="px-3 py-1.5 rounded-xl bg-rose-500/10 border border-rose-500/20 text-rose-300 font-semibold flex items-center gap-1.5">
-                    <i data-lucide="flag" class="w-3.5 h-3.5"></i> 15 Red Flags
+                    <i data-lucide="flag" class="w-3.5 h-3.5"></i> 20 Red Flags
                 </span>
             </div>
         </div>
@@ -125,10 +125,10 @@
         <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 overflow-x-auto custom-scroll">
             <nav class="flex space-x-2 py-2" id="mainTabs">
                 <button onclick="switchTab('greenflags')" class="tab-btn active px-4 py-2 rounded-xl text-xs sm:text-sm font-medium transition-all flex items-center gap-2 whitespace-nowrap" data-tab="greenflags">
-                    <i data-lucide="sparkles" class="w-4 h-4 text-emerald-400"></i> 15 Green Flags (Nuestras Fortalezas)
+                    <i data-lucide="sparkles" class="w-4 h-4 text-emerald-400"></i> 20 Green Flags (Fortalezas)
                 </button>
                 <button onclick="switchTab('redflags')" class="tab-btn px-4 py-2 rounded-xl text-xs sm:text-sm font-medium text-slate-400 hover:text-white hover:bg-slate-800/60 transition-all flex items-center gap-2 whitespace-nowrap" data-tab="redflags">
-                    <i data-lucide="flag" class="w-4 h-4 text-rose-400"></i> 15 Red Flags (Puntos a Pulir)
+                    <i data-lucide="flag" class="w-4 h-4 text-rose-400"></i> 20 Red Flags (Oportunidades)
                 </button>
                 <button onclick="switchTab('metricas')" class="tab-btn px-4 py-2 rounded-xl text-xs sm:text-sm font-medium text-slate-400 hover:text-white hover:bg-slate-800/60 transition-all flex items-center gap-2 whitespace-nowrap" data-tab="metricas">
                     <i data-lucide="bar-chart-3" class="w-4 h-4"></i> Métricas & Gráficos
@@ -144,634 +144,489 @@
     <main class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8 flex-1 w-full space-y-8">
 
         <!-- ============================================================== -->
-        <!-- TAB 1: 15 GREEN FLAGS DETALLADAS -->
+        <!-- TAB 1: 20 GREEN FLAGS EXHAUSTIVAS -->
         <!-- ============================================================== -->
         <div id="tab-greenflags" class="tab-content block space-y-8">
             
             <div class="glass-card rounded-3xl p-8 border-l-4 border-l-emerald-500 bg-gradient-to-r from-emerald-950/30 via-slate-900/60 to-slate-900">
                 <div class="max-w-3xl space-y-2">
                     <span class="badge-green text-xs font-semibold px-3 py-1 rounded-full inline-flex items-center gap-1.5">
-                        <i data-lucide="shield-check" class="w-3.5 h-3.5"></i> Lo más valioso de nuestro vínculo
+                        <i data-lucide="shield-check" class="w-3.5 h-3.5"></i> Catálogo Completo de Fortalezas
                     </span>
                     <h2 class="text-2xl sm:text-3xl font-extrabold text-white tracking-tight">
-                        15 Green Flags Sólidas que Demuestran Nuestro Amor
+                        20 Green Flags que Hacen Única a Nuestra Relación
                     </h2>
                     <p class="text-xs sm:text-sm text-slate-300 leading-relaxed">
-                        Estas 15 fortalezas fueron extraídas de los 108,144 mensajes a lo largo de 405 días. Reflejan lealtad, actos de servicio, humor, cuidado de la salud y un compromiso diario que hace única a nuestra relación.
+                        Tras analizar minuciosamente los 108,144 mensajes durante 405 días ininterrumpidos, estas 20 fortalezas demuestran que compartimos un vínculo lleno de lealtad, generosidad, humor, cuidado y amor genuino.
                     </p>
                 </div>
             </div>
 
-            <!-- Grid of 15 Green Flags -->
-            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+            <!-- Grid of 20 Green Flags -->
+            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-5">
                 
                 <!-- GF 1 -->
-                <div class="glass-card rounded-2xl p-6 border-t-4 border-t-emerald-500 space-y-3">
+                <div class="glass-card rounded-2xl p-5 border-t-4 border-t-emerald-500 space-y-2.5">
                     <div class="flex items-center justify-between">
-                        <div class="flex items-center gap-2">
-                            <span class="w-7 h-7 rounded-lg bg-emerald-500/20 text-emerald-400 flex items-center justify-center font-bold text-xs">1</span>
-                            <h4 class="text-sm font-bold text-white">Presencia Diaria (405 Días)</h4>
-                        </div>
+                        <span class="w-6 h-6 rounded-lg bg-emerald-500/20 text-emerald-400 flex items-center justify-center font-bold text-xs">1</span>
                         <span class="badge-green text-[10px] px-2 py-0.5 rounded-full font-semibold">Constancia</span>
                     </div>
-                    <p class="text-xs text-slate-300 leading-relaxed">
-                        Cero días de ausencia o desinterés. Cada mañana inicia con un saludo cariñoso (<i>"Buenos días", "¿Cómo amaneciste?"</i>) y finaliza con un deseo de descanso.
-                    </p>
-                    <div class="bg-slate-950/60 p-2.5 rounded-xl border border-slate-800 text-[11px] text-emerald-300 font-mono">
-                        "Buenos días hermosa... ¿cómo amaneciste hoy?"
-                    </div>
+                    <h4 class="text-sm font-bold text-white">Presencia Diaria Ininterrumpida (405 Días)</h4>
+                    <p class="text-xs text-slate-300 leading-relaxed">Cero días de ausencia o distanciamiento total. Siempre hay un saludo de buenos días y un deseo de descanso cada noche.</p>
                 </div>
 
                 <!-- GF 2 -->
-                <div class="glass-card rounded-2xl p-6 border-t-4 border-t-emerald-500 space-y-3">
+                <div class="glass-card rounded-2xl p-5 border-t-4 border-t-emerald-500 space-y-2.5">
                     <div class="flex items-center justify-between">
-                        <div class="flex items-center gap-2">
-                            <span class="w-7 h-7 rounded-lg bg-emerald-500/20 text-emerald-400 flex items-center justify-center font-bold text-xs">2</span>
-                            <h4 class="text-sm font-bold text-white">Soporte y Equipo Académico</h4>
-                        </div>
+                        <span class="w-6 h-6 rounded-lg bg-emerald-500/20 text-emerald-400 flex items-center justify-center font-bold text-xs">2</span>
                         <span class="badge-green text-[10px] px-2 py-0.5 rounded-full font-semibold">Crecimiento</span>
                     </div>
-                    <p class="text-xs text-slate-300 leading-relaxed">
-                        Ánimos constantes en materias difíciles (Contabilidad, exámenes pesados, conferencias), desvelos de estudio acompañándose y orgullo mutuo por las buenas notas.
-                    </p>
-                    <div class="bg-slate-950/60 p-2.5 rounded-xl border border-slate-800 text-[11px] text-emerald-300 font-mono">
-                        "Tú eres bien inteligente y te va a ir 100/10 🍀✨"
-                    </div>
+                    <h4 class="text-sm font-bold text-white">Soporte y Equipo Académico</h4>
+                    <p class="text-xs text-slate-300 leading-relaxed">Ánimos en materias difíciles (Contabilidad, exámenes pesados), desvelos de estudio acompañándose y orgullo por los logros mutuos.</p>
                 </div>
 
                 <!-- GF 3 -->
-                <div class="glass-card rounded-2xl p-6 border-t-4 border-t-emerald-500 space-y-3">
+                <div class="glass-card rounded-2xl p-5 border-t-4 border-t-emerald-500 space-y-2.5">
                     <div class="flex items-center justify-between">
-                        <div class="flex items-center gap-2">
-                            <span class="w-7 h-7 rounded-lg bg-emerald-500/20 text-emerald-400 flex items-center justify-center font-bold text-xs">3</span>
-                            <h4 class="text-sm font-bold text-white">Actos de Servicio y Ayuda</h4>
-                        </div>
+                        <span class="w-6 h-6 rounded-lg bg-emerald-500/20 text-emerald-400 flex items-center justify-center font-bold text-xs">3</span>
                         <span class="badge-green text-[10px] px-2 py-0.5 rounded-full font-semibold">Generosidad</span>
                     </div>
-                    <p class="text-xs text-slate-300 leading-relaxed">
-                        Gabriel comprándole cosas que necesita (carpetas, comida con "el barbas"), esperándola a la salida de clases o acompañándola a sus cursos.
-                    </p>
-                    <div class="bg-slate-950/60 p-2.5 rounded-xl border border-slate-800 text-[11px] text-emerald-300 font-mono">
-                        "Ahorita que salgas te compro las cosas y te las llevo"
-                    </div>
+                    <h4 class="text-sm font-bold text-white">Actos de Servicio Cotidiano</h4>
+                    <p class="text-xs text-slate-300 leading-relaxed">Gabriel comprando materiales y comida ("el barbas"), llevándoselos a su salón y esperándola a la salida de clases.</p>
                 </div>
 
                 <!-- GF 4 -->
-                <div class="glass-card rounded-2xl p-6 border-t-4 border-t-emerald-500 space-y-3">
+                <div class="glass-card rounded-2xl p-5 border-t-4 border-t-emerald-500 space-y-2.5">
                     <div class="flex items-center justify-between">
-                        <div class="flex items-center gap-2">
-                            <span class="w-7 h-7 rounded-lg bg-emerald-500/20 text-emerald-400 flex items-center justify-center font-bold text-xs">4</span>
-                            <h4 class="text-sm font-bold text-white">Cuidado Físico y de Salud</h4>
-                        </div>
+                        <span class="w-6 h-6 rounded-lg bg-emerald-500/20 text-emerald-400 flex items-center justify-center font-bold text-xs">4</span>
                         <span class="badge-green text-[10px] px-2 py-0.5 rounded-full font-semibold">Protección</span>
                     </div>
-                    <p class="text-xs text-slate-300 leading-relaxed">
-                        Alexa vigilando que Gabriel coma a tiempo y duerma cuando está exhausto; Gabriel ofreciendo electrolit/agua ante el calor y cuidando que llegue segura.
-                    </p>
-                    <div class="bg-slate-950/60 p-2.5 rounded-xl border border-slate-800 text-[11px] text-emerald-300 font-mono">
-                        "¿Ya comiste? No te malpases" / "¿Quieres electrolit?"
-                    </div>
+                    <h4 class="text-sm font-bold text-white">Cuidado Físico y de Salud</h4>
+                    <p class="text-xs text-slate-300 leading-relaxed">Alexa vigilando que Gabriel coma a tiempo y duerma; Gabriel ofreciendo electrolit/agua ante el calor y cuidando su regreso a casa.</p>
                 </div>
 
                 <!-- GF 5 -->
-                <div class="glass-card rounded-2xl p-6 border-t-4 border-t-emerald-500 space-y-3">
+                <div class="glass-card rounded-2xl p-5 border-t-4 border-t-emerald-500 space-y-2.5">
                     <div class="flex items-center justify-between">
-                        <div class="flex items-center gap-2">
-                            <span class="w-7 h-7 rounded-lg bg-emerald-500/20 text-emerald-400 flex items-center justify-center font-bold text-xs">5</span>
-                            <h4 class="text-sm font-bold text-white">Complicidad y Humor Íntimo</h4>
-                        </div>
+                        <span class="w-6 h-6 rounded-lg bg-emerald-500/20 text-emerald-400 flex items-center justify-center font-bold text-xs">5</span>
                         <span class="badge-green text-[10px] px-2 py-0.5 rounded-full font-semibold">Afinidad</span>
                     </div>
-                    <p class="text-xs text-slate-300 leading-relaxed">
-                        Más de 18,600 stickers y fotos compartidas. Apodos tiernos (<i>"Criatura", "Ajolote", "Mijo", "Corazón"</i>), memes y risas espontáneas todos los días.
-                    </p>
-                    <div class="bg-slate-950/60 p-2.5 rounded-xl border border-slate-800 text-[11px] text-emerald-300 font-mono">
-                        Stickers de perritos, audios de risa y partidas de Roblox.
-                    </div>
+                    <h4 class="text-sm font-bold text-white">Complicidad y Humor Íntimo</h4>
+                    <p class="text-xs text-slate-300 leading-relaxed">+18,600 stickers y fotos compartidas. Apodos llenos de cariño (<i>"Criatura", "Ajolote", "Mijo", "Corazón"</i>) y risas cotidianas.</p>
                 </div>
 
                 <!-- GF 6 -->
-                <div class="glass-card rounded-2xl p-6 border-t-4 border-t-emerald-500 space-y-3">
+                <div class="glass-card rounded-2xl p-5 border-t-4 border-t-emerald-500 space-y-2.5">
                     <div class="flex items-center justify-between">
-                        <div class="flex items-center gap-2">
-                            <span class="w-7 h-7 rounded-lg bg-emerald-500/20 text-emerald-400 flex items-center justify-center font-bold text-xs">6</span>
-                            <h4 class="text-sm font-bold text-white">Validación Estética Continua</h4>
-                        </div>
+                        <span class="w-6 h-6 rounded-lg bg-emerald-500/20 text-emerald-400 flex items-center justify-center font-bold text-xs">6</span>
                         <span class="badge-green text-[10px] px-2 py-0.5 rounded-full font-semibold">Seguridad</span>
                     </div>
-                    <p class="text-xs text-slate-300 leading-relaxed">
-                        Gabriel es un proveedor constante de seguridad estética para Alexa: elogiando sus outfits, peinados y fotos con total devoción (<i>"100000/10", "Autorizo", "Me encantas"</i>).
-                    </p>
-                    <div class="bg-slate-950/60 p-2.5 rounded-xl border border-slate-800 text-[11px] text-emerald-300 font-mono">
-                        "Te ves 100000/10, autorizo ✨❤️... me encantas"
-                    </div>
+                    <h4 class="text-sm font-bold text-white">Validación Estética Continua</h4>
+                    <p class="text-xs text-slate-300 leading-relaxed">Gabriel elogiando con total sinceridad los outfits, peinados y fotos de perfil de Alexa (<i>"100000/10", "Autorizo", "Me encantas"</i>).</p>
                 </div>
 
                 <!-- GF 7 -->
-                <div class="glass-card rounded-2xl p-6 border-t-4 border-t-emerald-500 space-y-3">
+                <div class="glass-card rounded-2xl p-5 border-t-4 border-t-emerald-500 space-y-2.5">
                     <div class="flex items-center justify-between">
-                        <div class="flex items-center gap-2">
-                            <span class="w-7 h-7 rounded-lg bg-emerald-500/20 text-emerald-400 flex items-center justify-center font-bold text-xs">7</span>
-                            <h4 class="text-sm font-bold text-white">Reconciliación Rápida</h4>
-                        </div>
+                        <span class="w-6 h-6 rounded-lg bg-emerald-500/20 text-emerald-400 flex items-center justify-center font-bold text-xs">7</span>
                         <span class="badge-green text-[10px] px-2 py-0.5 rounded-full font-semibold">Madurez</span>
                     </div>
-                    <p class="text-xs text-slate-300 leading-relaxed">
-                        A pesar de los desacuerdos normales, ningún conflicto se prolongó por días. Ambos buscan reabrir el canal de comunicación con cariño antes de dormir.
-                    </p>
-                    <div class="bg-slate-950/60 p-2.5 rounded-xl border border-slate-800 text-[11px] text-emerald-300 font-mono">
-                        "Te amo mucho y no quiero que estemos así..."
-                    </div>
+                    <h4 class="text-sm font-bold text-white">Voluntad de Reconciliación Rápida</h4>
+                    <p class="text-xs text-slate-300 leading-relaxed">Resistencia al distanciamiento prolongado: ningún enojo se deja pasar a mayores y siempre se busca cerrar el día con ternura.</p>
                 </div>
 
                 <!-- GF 8 -->
-                <div class="glass-card rounded-2xl p-6 border-t-4 border-t-emerald-500 space-y-3">
+                <div class="glass-card rounded-2xl p-5 border-t-4 border-t-emerald-500 space-y-2.5">
                     <div class="flex items-center justify-between">
-                        <div class="flex items-center gap-2">
-                            <span class="w-7 h-7 rounded-lg bg-emerald-500/20 text-emerald-400 flex items-center justify-center font-bold text-xs">8</span>
-                            <h4 class="text-sm font-bold text-white">Transparencia Espontánea</h4>
-                        </div>
+                        <span class="w-6 h-6 rounded-lg bg-emerald-500/20 text-emerald-400 flex items-center justify-center font-bold text-xs">8</span>
                         <span class="badge-green text-[10px] px-2 py-0.5 rounded-full font-semibold">Confianza</span>
                     </div>
-                    <p class="text-xs text-slate-300 leading-relaxed">
-                        Ambos se informan de manera natural sobre sus horarios, clases, salidas a la tienda o llegadas a casa, construyendo tranquilidad y seguridad mutua.
-                    </p>
-                    <div class="bg-slate-950/60 p-2.5 rounded-xl border border-slate-800 text-[11px] text-emerald-300 font-mono">
-                        "Ya salí de clases", "Voy con mi abuelita", "Ya en casa"
-                    </div>
+                    <h4 class="text-sm font-bold text-white">Transparencia Espontánea</h4>
+                    <p class="text-xs text-slate-300 leading-relaxed">Avisos naturales de salidas, clases, compras y llegadas a casa sin necesidad de exigencias ni reclamos.</p>
                 </div>
 
                 <!-- GF 9 -->
-                <div class="glass-card rounded-2xl p-6 border-t-4 border-t-emerald-500 space-y-3">
+                <div class="glass-card rounded-2xl p-5 border-t-4 border-t-emerald-500 space-y-2.5">
                     <div class="flex items-center justify-between">
-                        <div class="flex items-center gap-2">
-                            <span class="w-7 h-7 rounded-lg bg-emerald-500/20 text-emerald-400 flex items-center justify-center font-bold text-xs">9</span>
-                            <h4 class="text-sm font-bold text-white">Lealtad y Exclusividad Total</h4>
-                        </div>
+                        <span class="w-6 h-6 rounded-lg bg-emerald-500/20 text-emerald-400 flex items-center justify-center font-bold text-xs">9</span>
                         <span class="badge-green text-[10px] px-2 py-0.5 rounded-full font-semibold">Fidelidad</span>
                     </div>
-                    <p class="text-xs text-slate-300 leading-relaxed">
-                        En más de 108k mensajes, cero indicios de infidelidad, terceros o deslealtad. El interés mutuo es 100% exclusivo y enfocado en construir su vínculo.
-                    </p>
-                    <div class="bg-slate-950/60 p-2.5 rounded-xl border border-slate-800 text-[11px] text-emerald-300 font-mono">
-                        "Ni tengo otra ni me interesa nadie más, solo tú"
-                    </div>
+                    <h4 class="text-sm font-bold text-white">Lealtad y Exclusividad Total</h4>
+                    <p class="text-xs text-slate-300 leading-relaxed">Cero indicios de terceros o coqueteos externos en casi dos años de registro; compromiso monógamo 100% demostrado.</p>
                 </div>
 
                 <!-- GF 10 -->
-                <div class="glass-card rounded-2xl p-6 border-t-4 border-t-emerald-500 space-y-3">
+                <div class="glass-card rounded-2xl p-5 border-t-4 border-t-emerald-500 space-y-2.5">
                     <div class="flex items-center justify-between">
-                        <div class="flex items-center gap-2">
-                            <span class="w-7 h-7 rounded-lg bg-emerald-500/20 text-emerald-400 flex items-center justify-center font-bold text-xs">10</span>
-                            <h4 class="text-sm font-bold text-white">Inclusión Familiar Natural</h4>
-                        </div>
+                        <span class="w-6 h-6 rounded-lg bg-emerald-500/20 text-emerald-400 flex items-center justify-center font-bold text-xs">10</span>
                         <span class="badge-green text-[10px] px-2 py-0.5 rounded-full font-semibold">Integración</span>
                     </div>
-                    <p class="text-xs text-slate-300 leading-relaxed">
-                        Comparten anécdotas de sus hermanos, mamás, papás y abuelitas con total apertura, mostrando que la relación está plenamente integrada en su vida real.
-                    </p>
-                    <div class="bg-slate-950/60 p-2.5 rounded-xl border border-slate-800 text-[11px] text-emerald-300 font-mono">
-                        "Mi hermana dice que esta foto", "Ando con mi mamá"
-                    </div>
+                    <h4 class="text-sm font-bold text-white">Inclusión Familiar Natural</h4>
+                    <p class="text-xs text-slate-300 leading-relaxed">Compartir anécdotas de hermanos, mamás y abuelitas con total normalidad, integrando la relación en la vida real.</p>
                 </div>
 
                 <!-- GF 11 -->
-                <div class="glass-card rounded-2xl p-6 border-t-4 border-t-emerald-500 space-y-3">
+                <div class="glass-card rounded-2xl p-5 border-t-4 border-t-emerald-500 space-y-2.5">
                     <div class="flex items-center justify-between">
-                        <div class="flex items-center gap-2">
-                            <span class="w-7 h-7 rounded-lg bg-emerald-500/20 text-emerald-400 flex items-center justify-center font-bold text-xs">11</span>
-                            <h4 class="text-sm font-bold text-white">Hobbies y Planes Compartidos</h4>
-                        </div>
+                        <span class="w-6 h-6 rounded-lg bg-emerald-500/20 text-emerald-400 flex items-center justify-center font-bold text-xs">11</span>
                         <span class="badge-green text-[10px] px-2 py-0.5 rounded-full font-semibold">Conexión</span>
                     </div>
-                    <p class="text-xs text-slate-300 leading-relaxed">
-                        Conectan a través de videojuegos (partidas de Roblox nocturnas), salidas al cine (Spider-Man), recomendaciones de canciones y ensayos de baile.
-                    </p>
-                    <div class="bg-slate-950/60 p-2.5 rounded-xl border border-slate-800 text-[11px] text-emerald-300 font-mono">
-                        "¿Jugamos Roblox?", "Gracias por ir a ver Spider-Man conmigo"
-                    </div>
+                    <h4 class="text-sm font-bold text-white">Hobbies y Planes Compartidos</h4>
+                    <p class="text-xs text-slate-300 leading-relaxed">Conectar mediante partidas nocturnas de Roblox, salidas al cine (Spider-Man), recomendaciones de canciones y ensayos de baile.</p>
                 </div>
 
                 <!-- GF 12 -->
-                <div class="glass-card rounded-2xl p-6 border-t-4 border-t-emerald-500 space-y-3">
+                <div class="glass-card rounded-2xl p-5 border-t-4 border-t-emerald-500 space-y-2.5">
                     <div class="flex items-center justify-between">
-                        <div class="flex items-center gap-2">
-                            <span class="w-7 h-7 rounded-lg bg-emerald-500/20 text-emerald-400 flex items-center justify-center font-bold text-xs">12</span>
-                            <h4 class="text-sm font-bold text-white">Reciprocidad y Apoyo Práctico</h4>
-                        </div>
+                        <span class="w-6 h-6 rounded-lg bg-emerald-500/20 text-emerald-400 flex items-center justify-center font-bold text-xs">12</span>
                         <span class="badge-green text-[10px] px-2 py-0.5 rounded-full font-semibold">Compañerismo</span>
                     </div>
-                    <p class="text-xs text-slate-300 leading-relaxed">
-                        Coordinación clara con gastos escolares y comida (<i>"nosotras te damos el dinero aquí"</i>, invitar crepas o tamales), demostrando un balance justo.
-                    </p>
-                    <div class="bg-slate-950/60 p-2.5 rounded-xl border border-slate-800 text-[11px] text-emerald-300 font-mono">
-                        "Tú compras y nosotras te damos el dinero aquí"
-                    </div>
+                    <h4 class="text-sm font-bold text-white">Reciprocidad Práctica y Económica</h4>
+                    <p class="text-xs text-slate-300 leading-relaxed">Coordinación transparente con gastos y comida (<i>"nosotras te damos el dinero aquí"</i>, invitar crepas y tamales).</p>
                 </div>
 
                 <!-- GF 13 -->
-                <div class="glass-card rounded-2xl p-6 border-t-4 border-t-emerald-500 space-y-3">
+                <div class="glass-card rounded-2xl p-5 border-t-4 border-t-emerald-500 space-y-2.5">
                     <div class="flex items-center justify-between">
-                        <div class="flex items-center gap-2">
-                            <span class="w-7 h-7 rounded-lg bg-emerald-500/20 text-emerald-400 flex items-center justify-center font-bold text-xs">13</span>
-                            <h4 class="text-sm font-bold text-white">Refugio Emocional sin Juicios</h4>
-                        </div>
+                        <span class="w-6 h-6 rounded-lg bg-emerald-500/20 text-emerald-400 flex items-center justify-center font-bold text-xs">13</span>
                         <span class="badge-green text-[10px] px-2 py-0.5 rounded-full font-semibold">Vulnerabilidad</span>
                     </div>
-                    <p class="text-xs text-slate-300 leading-relaxed">
-                        Desahogo sincero cuando alguno tiene problemas familiares, estrés con maestros o cansancio laboral. Se escuchan y brindan contención afectiva.
-                    </p>
-                    <div class="bg-slate-950/60 p-2.5 rounded-xl border border-slate-800 text-[11px] text-emerald-300 font-mono">
-                        "Aquí estoy para ti, tranquilo... todo va a estar bien"
-                    </div>
+                    <h4 class="text-sm font-bold text-white">Refugio Emocional sin Juicios</h4>
+                    <p class="text-xs text-slate-300 leading-relaxed">Desahogo sincero ante problemas familiares, estrés con profesores o cansancio laboral sintiéndose escuchados y seguros.</p>
                 </div>
 
                 <!-- GF 14 -->
-                <div class="glass-card rounded-2xl p-6 border-t-4 border-t-emerald-500 space-y-3">
+                <div class="glass-card rounded-2xl p-5 border-t-4 border-t-emerald-500 space-y-2.5">
                     <div class="flex items-center justify-between">
-                        <div class="flex items-center gap-2">
-                            <span class="w-7 h-7 rounded-lg bg-emerald-500/20 text-emerald-400 flex items-center justify-center font-bold text-xs">14</span>
-                            <h4 class="text-sm font-bold text-white">Prioridad de verse en Persona</h4>
-                        </div>
+                        <span class="w-6 h-6 rounded-lg bg-emerald-500/20 text-emerald-400 flex items-center justify-center font-bold text-xs">14</span>
                         <span class="badge-green text-[10px] px-2 py-0.5 rounded-full font-semibold">Afecto Físico</span>
                     </div>
-                    <p class="text-xs text-slate-300 leading-relaxed">
-                        Aunque el chat es activo, siempre buscan verse 5 o 10 minutos entre salones, abrazarse y acompañarse físicamente en la escuela.
-                    </p>
-                    <div class="bg-slate-950/60 p-2.5 rounded-xl border border-slate-800 text-[11px] text-emerald-300 font-mono">
-                        "De verdad me encanta estar aunque sea 5 minutos contigo"
-                    </div>
+                    <h4 class="text-sm font-bold text-white">Prioridad de Verse en Persona</h4>
+                    <p class="text-xs text-slate-300 leading-relaxed">Buscarse 5 o 10 minutos entre clases para abrazarse y compartir momentos presenciales más allá de la pantalla.</p>
                 </div>
 
                 <!-- GF 15 -->
-                <div class="glass-card rounded-2xl p-6 border-t-4 border-t-emerald-500 space-y-3">
+                <div class="glass-card rounded-2xl p-5 border-t-4 border-t-emerald-500 space-y-2.5">
                     <div class="flex items-center justify-between">
-                        <div class="flex items-center gap-2">
-                            <span class="w-7 h-7 rounded-lg bg-emerald-500/20 text-emerald-400 flex items-center justify-center font-bold text-xs">15</span>
-                            <h4 class="text-sm font-bold text-white">Aceptación Auténtica del Otro</h4>
-                        </div>
+                        <span class="w-6 h-6 rounded-lg bg-emerald-500/20 text-emerald-400 flex items-center justify-center font-bold text-xs">15</span>
                         <span class="badge-green text-[10px] px-2 py-0.5 rounded-full font-semibold">Amor Real</span>
                     </div>
-                    <p class="text-xs text-slate-300 leading-relaxed">
-                        Conocerse en sus días despeinados, desvelados, de mal humor o con estrés, y seguir eligiéndose y admirándose mutuamente tras 19 meses.
-                    </p>
-                    <div class="bg-slate-950/60 p-2.5 rounded-xl border border-slate-800 text-[11px] text-emerald-300 font-mono">
-                        "Eres la mejor novia del universo... solo contigo quiero estar"
+                    <h4 class="text-sm font-bold text-white">Aceptación Auténtica del Otro</h4>
+                    <p class="text-xs text-slate-300 leading-relaxed">Conocerse en días de desvelo, mal humor o despeine y seguir eligiéndose mutuamente tras 19 meses continuos.</p>
+                </div>
+
+                <!-- GF 16 -->
+                <div class="glass-card rounded-2xl p-5 border-t-4 border-t-emerald-500 space-y-2.5">
+                    <div class="flex items-center justify-between">
+                        <span class="w-6 h-6 rounded-lg bg-emerald-500/20 text-emerald-400 flex items-center justify-center font-bold text-xs">16</span>
+                        <span class="badge-green text-[10px] px-2 py-0.5 rounded-full font-semibold">Confianza de Criterio</span>
                     </div>
+                    <h4 class="text-sm font-bold text-white">Búsqueda Constante de Consejo Mutuo</h4>
+                    <p class="text-xs text-slate-300 leading-relaxed">Consultar y valorar la opinión del otro para decisiones cotidianas: fotos de perfil, outfits, peinados o tareas.</p>
+                </div>
+
+                <!-- GF 17 -->
+                <div class="glass-card rounded-2xl p-5 border-t-4 border-t-emerald-500 space-y-2.5">
+                    <div class="flex items-center justify-between">
+                        <span class="w-6 h-6 rounded-lg bg-emerald-500/20 text-emerald-400 flex items-center justify-center font-bold text-xs">17</span>
+                        <span class="badge-green text-[10px] px-2 py-0.5 rounded-full font-semibold">Sincronización</span>
+                    </div>
+                    <h4 class="text-sm font-bold text-white">Acompañamiento en el Despertar y Sueño</h4>
+                    <p class="text-xs text-slate-300 leading-relaxed">Monitorear si el otro despertó para sus clases tempranas y acompañarse virtualmente hasta conciliar el sueño.</p>
+                </div>
+
+                <!-- GF 18 -->
+                <div class="glass-card rounded-2xl p-5 border-t-4 border-t-emerald-500 space-y-2.5">
+                    <div class="flex items-center justify-between">
+                        <span class="w-6 h-6 rounded-lg bg-emerald-500/20 text-emerald-400 flex items-center justify-center font-bold text-xs">18</span>
+                        <span class="badge-green text-[10px] px-2 py-0.5 rounded-full font-semibold">Cercanía Auditiva</span>
+                    </div>
+                    <h4 class="text-sm font-bold text-white">Uso Frecuente de Audios y Llamadas</h4>
+                    <p class="text-xs text-slate-300 leading-relaxed">Más de 500 interacciones por audio y llamadas telefónicas para escucharse la voz y sentirse más cerca en el día.</p>
+                </div>
+
+                <!-- GF 19 -->
+                <div class="glass-card rounded-2xl p-5 border-t-4 border-t-emerald-500 space-y-2.5">
+                    <div class="flex items-center justify-between">
+                        <span class="w-6 h-6 rounded-lg bg-emerald-500/20 text-emerald-400 flex items-center justify-center font-bold text-xs">19</span>
+                        <span class="badge-green text-[10px] px-2 py-0.5 rounded-full font-semibold">Respeto</span>
+                    </div>
+                    <h4 class="text-sm font-bold text-white">Cuidado Mutuo de la Intimidad</h4>
+                    <p class="text-xs text-slate-300 leading-relaxed">Interés genuino por saber cómo se siente el otro respecto al contacto físico y asegurarse de que siempre exista comodidad.</p>
+                </div>
+
+                <!-- GF 20 -->
+                <div class="glass-card rounded-2xl p-5 border-t-4 border-t-emerald-500 space-y-2.5">
+                    <div class="flex items-center justify-between">
+                        <span class="w-6 h-6 rounded-lg bg-emerald-500/20 text-emerald-400 flex items-center justify-center font-bold text-xs">20</span>
+                        <span class="badge-green text-[10px] px-2 py-0.5 rounded-full font-semibold">Proyección</span>
+                    </div>
+                    <h4 class="text-sm font-bold text-white">Deseo Compartido de Crecer Juntos</h4>
+                    <p class="text-xs text-slate-300 leading-relaxed">Construir recuerdos compartidos mes con mes con el anhelo de seguir madurando y superando etapas académicas como equipo.</p>
                 </div>
 
             </div>
         </div>
 
         <!-- ============================================================== -->
-        <!-- TAB 2: 15 RED FLAGS DETALLADAS -->
+        <!-- TAB 2: 20 RED FLAGS EXHAUSTIVAS & CÓMO SANARLAS -->
         <!-- ============================================================== -->
         <div id="tab-redflags" class="tab-content hidden space-y-8">
             
             <div class="glass-card rounded-3xl p-8 border-l-4 border-l-rose-500 bg-gradient-to-r from-rose-950/30 via-slate-900/60 to-slate-900">
                 <div class="max-w-3xl space-y-2">
                     <span class="badge-red text-xs font-semibold px-3 py-1 rounded-full inline-flex items-center gap-1.5">
-                        <i data-lucide="alert-triangle" class="w-3.5 h-3.5"></i> Oportunidades de Crecimiento
+                        <i data-lucide="alert-triangle" class="w-3.5 h-3.5"></i> Catálogo Completo de Oportunidades
                     </span>
                     <h2 class="text-2xl sm:text-3xl font-extrabold text-white tracking-tight">
-                        15 Red Flags a Pulir y Cómo Sanarlas en Pareja
+                        20 Red Flags a Pulir en Pareja (Guía de Transformación)
                     </h2>
                     <p class="text-xs sm:text-sm text-slate-300 leading-relaxed">
-                        No son motivos de ruptura, sino <b>hábitos de comunicación disfuncionales</b> que generan ansiedad y desgaste. Cada punto incluye su impacto y la guía para convertirlo en una Green Flag.
+                        Este catálogo cubre todos los vicios y patrones disfuncionales detectados en los 108,144 mensajes. Cada punto detalla su impacto psicológico y la fórmula para convertirlo en un hábito sano.
                     </p>
                 </div>
             </div>
 
-            <!-- List of 15 Red Flags -->
-            <div class="space-y-6">
+            <!-- List of 20 Red Flags -->
+            <div class="space-y-5">
                 
                 <!-- RF 1 -->
-                <div class="glass-card rounded-2xl p-6 border-l-4 border-l-rose-500 space-y-3">
+                <div class="glass-card rounded-2xl p-5 border-l-4 border-l-rose-500 space-y-2">
                     <div class="flex flex-wrap items-center justify-between gap-2">
-                        <div class="flex items-center gap-2.5">
-                            <span class="w-8 h-8 rounded-lg bg-rose-500/20 text-rose-300 flex items-center justify-center font-bold text-xs">1</span>
-                            <h4 class="text-base font-bold text-white">Auto-Inculpación Compulsiva y Sobre-Disculpa (Gabriel)</h4>
-                        </div>
-                        <span class="badge-red text-[11px] px-2.5 py-0.5 rounded-full font-medium">Patrón Ansioso</span>
+                        <span class="font-bold text-white text-sm">1. Auto-Inculpación Compulsiva y Sobre-Disculpa (Gabriel)</span>
+                        <span class="badge-red text-[10px] px-2 py-0.5 rounded-full">Patrón Ansioso</span>
                     </div>
-                    <p class="text-xs text-slate-300 leading-relaxed">
-                        Pedir perdón de inmediato ante cualquier cambio de humor (<i>"Perdón por molestar", "Yo tuve la culpa", "No me odies"</i>), incluso por situaciones ajenas (tráfico, tareas o demoras).
-                    </p>
-                    <div class="grid grid-cols-1 md:grid-cols-2 gap-3 text-xs pt-1">
-                        <div class="bg-rose-950/40 p-3 rounded-xl border border-rose-500/20">
-                            <span class="font-bold text-rose-300 block mb-1">Impacto:</span> Desvaloriza la posición de Gabriel y crea una dinámica desigual de poder en la pareja.
-                        </div>
-                        <div class="bg-emerald-950/40 p-3 rounded-xl border border-emerald-500/20">
-                            <span class="font-bold text-emerald-300 block mb-1">Cómo Sanarlo:</span> Sustituir la culpa por escucha activa: <i>"Te noto seria, ¿pasó algo o prefieres descansar un ratito?"</i>.
-                        </div>
+                    <p class="text-xs text-slate-300">Pedir perdón inmediatamente (<i>"Perdón por molestar", "Yo tuve la culpa"</i>) incluso por demoras ajenas o tráfico.</p>
+                    <div class="bg-emerald-950/40 p-2.5 rounded-xl border border-emerald-500/20 text-xs text-emerald-300">
+                        <b>Cómo Sanarlo:</b> Sustituir la culpa por escucha: <i>"Te noto cansada o seria, ¿pasó algo o prefieres un ratito de calma?"</i>.
                     </div>
                 </div>
 
                 <!-- RF 2 -->
-                <div class="glass-card rounded-2xl p-6 border-l-4 border-l-rose-500 space-y-3">
+                <div class="glass-card rounded-2xl p-5 border-l-4 border-l-rose-500 space-y-2">
                     <div class="flex flex-wrap items-center justify-between gap-2">
-                        <div class="flex items-center gap-2.5">
-                            <span class="w-8 h-8 rounded-lg bg-rose-500/20 text-rose-300 flex items-center justify-center font-bold text-xs">2</span>
-                            <h4 class="text-base font-bold text-white">Ley del Hielo y Respuestas Cortantes / Stonewalling (Alexa)</h4>
-                        </div>
-                        <span class="badge-red text-[11px] px-2.5 py-0.5 rounded-full font-medium">Patrón Evitativo</span>
+                        <span class="font-bold text-white text-sm">2. Ley del Hielo y Respuestas Tajantes / Stonewalling (Alexa)</span>
+                        <span class="badge-red text-[10px] px-2 py-0.5 rounded-full">Patrón Evitativo</span>
                     </div>
-                    <p class="text-xs text-slate-300 leading-relaxed">
-                        Cerrar el diálogo de golpe con frases tajantes (<i>"Ahí queda mijo ✌️", "Y no vuelvas", "Ya da igual", "Ya nimodo", "Me caes mal"</i>) cuando hay cansancio o enojo.
-                    </p>
-                    <div class="grid grid-cols-1 md:grid-cols-2 gap-3 text-xs pt-1">
-                        <div class="bg-rose-950/40 p-3 rounded-xl border border-rose-500/20">
-                            <span class="font-bold text-rose-300 block mb-1">Impacto:</span> Deja al otro en angustia e incertidumbre, forzándolo a insistir para calmar la tensión.
-                        </div>
-                        <div class="bg-emerald-950/40 p-3 rounded-xl border border-emerald-500/20">
-                            <span class="font-bold text-emerald-300 block mb-1">Cómo Sanarlo:</span> Pedir espacio afectuoso: <i>"Ando algo abrumada ahorita, dame 20 minutos para despejarme y te escribo bien, te quiero"</i>.
-                        </div>
+                    <p class="text-xs text-slate-300">Cerrar el diálogo de golpe con frases como <i>"Ahí queda mijo ✌️", "Y no vuelvas", "Ya da igual"</i> ante una molestia.</p>
+                    <div class="bg-emerald-950/40 p-2.5 rounded-xl border border-emerald-500/20 text-xs text-emerald-300">
+                        <b>Cómo Sanarlo:</b> Pedir espacio con afecto: <i>"Ando abrumada ahorita, dame 20 minutos para despejarme y te escribo bien, te quiero"</i>.
                     </div>
                 </div>
 
                 <!-- RF 3 -->
-                <div class="glass-card rounded-2xl p-6 border-l-4 border-l-rose-500 space-y-3">
+                <div class="glass-card rounded-2xl p-5 border-l-4 border-l-rose-500 space-y-2">
                     <div class="flex flex-wrap items-center justify-between gap-2">
-                        <div class="flex items-center gap-2.5">
-                            <span class="w-8 h-8 rounded-lg bg-rose-500/20 text-rose-300 flex items-center justify-center font-bold text-xs">3</span>
-                            <h4 class="text-base font-bold text-white">Ráfagas de Mensajes ante la Frialdad (Gabriel)</h4>
-                        </div>
-                        <span class="badge-red text-[11px] px-2.5 py-0.5 rounded-full font-medium">Impaciencia</span>
+                        <span class="font-bold text-white text-sm">3. Ráfagas de Mensajes e Impaciencia ante la Frialdad (Gabriel)</span>
+                        <span class="badge-red text-[10px] px-2 py-0.5 rounded-full">Impaciencia</span>
                     </div>
-                    <p class="text-xs text-slate-300 leading-relaxed">
-                        Enviar ráfagas de 5 a 10 mensajes seguidos (<i>"¿Por qué me hablas así?", "¿Qué tienes?", "Dime algo"</i>) sin tolerar un momento de silencio para que las aguas se calmen.
-                    </p>
-                    <div class="grid grid-cols-1 md:grid-cols-2 gap-3 text-xs pt-1">
-                        <div class="bg-rose-950/40 p-3 rounded-xl border border-rose-500/20">
-                            <span class="font-bold text-rose-300 block mb-1">Impacto:</span> Abruma a Alexa cuando ella necesita procesar su malestar, intensificando su deseo de distanciarse.
-                        </div>
-                        <div class="bg-emerald-950/40 p-3 rounded-xl border border-emerald-500/20">
-                            <span class="font-bold text-emerald-300 block mb-1">Cómo Sanarlo:</span> Aprender a esperar con serenidad: soltar el celular 30 minutos confiando en que el amor sigue seguro.
-                        </div>
+                    <p class="text-xs text-slate-300">Mandar ráfagas de 5 a 10 mensajes seguidos pidiendo explicaciones inmediatas sin dar tiempo a que las emociones bajen.</p>
+                    <div class="bg-emerald-950/40 p-2.5 rounded-xl border border-emerald-500/20 text-xs text-emerald-300">
+                        <b>Cómo Sanarlo:</b> Tolerar el silencio temporal con serenidad y soltar el teléfono 30 minutos sabiendo que el amor está seguro.
                     </div>
                 </div>
 
                 <!-- RF 4 -->
-                <div class="glass-card rounded-2xl p-6 border-l-4 border-l-rose-500 space-y-3">
+                <div class="glass-card rounded-2xl p-5 border-l-4 border-l-rose-500 space-y-2">
                     <div class="flex flex-wrap items-center justify-between gap-2">
-                        <div class="flex items-center gap-2.5">
-                            <span class="w-8 h-8 rounded-lg bg-rose-500/20 text-rose-300 flex items-center justify-center font-bold text-xs">4</span>
-                            <h4 class="text-base font-bold text-white">El "Rechazo de Broma" en Momentos Sensibles (Alexa)</h4>
-                        </div>
-                        <span class="badge-red text-[11px] px-2.5 py-0.5 rounded-full font-medium">Humor Hiriente</span>
+                        <span class="font-bold text-white text-sm">4. El "Rechazo de Broma" en Momentos Sensibles (Alexa)</span>
+                        <span class="badge-red text-[10px] px-2 py-0.5 rounded-full">Humor Hiriente</span>
                     </div>
-                    <p class="text-xs text-slate-300 leading-relaxed">
-                        Bromas como <i>"Yo no te quiero", "Llora", "Sufre", "Mimimimi", "Ya no cuenta"</i> utilizadas en instantes donde Gabriel busca validación o afecto sincero.
-                    </p>
-                    <div class="grid grid-cols-1 md:grid-cols-2 gap-3 text-xs pt-1">
-                        <div class="bg-rose-950/40 p-3 rounded-xl border border-rose-500/20">
-                            <span class="font-bold text-rose-300 block mb-1">Impacto:</span> Repetido constantemente, erosiona la seguridad emocional de la otra persona.
-                        </div>
-                        <div class="bg-emerald-950/40 p-3 rounded-xl border border-emerald-500/20">
-                            <span class="font-bold text-emerald-300 block mb-1">Cómo Sanarlo:</span> Reservar las bromas para momentos de risa mutua y responder con ternura directa cuando el otro pide cariño.
-                        </div>
+                    <p class="text-xs text-slate-300">Bromas de <i>"Yo no te amo", "Llora", "Me caes mal", "Mimimimi"</i> cuando Gabriel busca ternura sincera.</p>
+                    <div class="bg-emerald-950/40 p-2.5 rounded-xl border border-emerald-500/20 text-xs text-emerald-300">
+                        <b>Cómo Sanarlo:</b> Reservar el humor negro para momentos de risa mutua y responder con afecto directo cuando el otro pide cariño.
                     </div>
                 </div>
 
                 <!-- RF 5 -->
-                <div class="glass-card rounded-2xl p-6 border-l-4 border-l-rose-500 space-y-3">
+                <div class="glass-card rounded-2xl p-5 border-l-4 border-l-rose-500 space-y-2">
                     <div class="flex flex-wrap items-center justify-between gap-2">
-                        <div class="flex items-center gap-2.5">
-                            <span class="w-8 h-8 rounded-lg bg-rose-500/20 text-rose-300 flex items-center justify-center font-bold text-xs">5</span>
-                            <h4 class="text-base font-bold text-white">Narrativa de Abandono como Test de Cariño (Alexa)</h4>
-                        </div>
-                        <span class="badge-red text-[11px] px-2.5 py-0.5 rounded-full font-medium">Victimización</span>
+                        <span class="font-bold text-white text-sm">5. Narrativa de Abandono como Test de Cariño (Alexa)</span>
+                        <span class="badge-red text-[10px] px-2 py-0.5 rounded-full">Victimización</span>
                     </div>
-                    <p class="text-xs text-slate-300 leading-relaxed">
-                        Reclamos de <i>"Te fuiste y me abandonaste", "Te valgo", "Sola como perrito de la calle"</i> cuando Gabriel debe atender responsabilidades familiares o escolares.
-                    </p>
-                    <div class="grid grid-cols-1 md:grid-cols-2 gap-3 text-xs pt-1">
-                        <div class="bg-rose-950/40 p-3 rounded-xl border border-rose-500/20">
-                            <span class="font-bold text-rose-300 block mb-1">Impacto:</span> Hace sentir culpable al otro por tener deberes individuales fuera del chat.
-                        </div>
-                        <div class="bg-emerald-950/40 p-3 rounded-xl border border-emerald-500/20">
-                            <span class="font-bold text-emerald-300 block mb-1">Cómo Sanarlo:</span> Expresar el deseo con amor: <i>"Te voy a extrañar hoy, me avisas en cuanto te desocupes para hablar"</i>.
-                        </div>
+                    <p class="text-xs text-slate-300">Reclamos de <i>"Te fuiste y me abandonaste / Te valgo"</i> cuando Gabriel atiende a su familia o tareas.</p>
+                    <div class="bg-emerald-950/40 p-2.5 rounded-xl border border-emerald-500/20 text-xs text-emerald-300">
+                        <b>Cómo Sanarlo:</b> Expresar la necesidad con amor: <i>"Te voy a extrañar hoy, me avisas en cuanto te desocupes para hablar"</i>.
                     </div>
                 </div>
 
                 <!-- RF 6 -->
-                <div class="glass-card rounded-2xl p-6 border-l-4 border-l-rose-500 space-y-3">
+                <div class="glass-card rounded-2xl p-5 border-l-4 border-l-rose-500 space-y-2">
                     <div class="flex flex-wrap items-center justify-between gap-2">
-                        <div class="flex items-center gap-2.5">
-                            <span class="w-8 h-8 rounded-lg bg-rose-500/20 text-rose-300 flex items-center justify-center font-bold text-xs">6</span>
-                            <h4 class="text-base font-bold text-white">Búsqueda Constante de Validación (Gabriel)</h4>
-                        </div>
-                        <span class="badge-red text-[11px] px-2.5 py-0.5 rounded-full font-medium">Inseguridad</span>
+                        <span class="font-bold text-white text-sm">6. Búsqueda Constante de Validación por Miedo (Gabriel)</span>
+                        <span class="badge-red text-[10px] px-2 py-0.5 rounded-full">Inseguridad</span>
                     </div>
-                    <p class="text-xs text-slate-300 leading-relaxed">
-                        Preguntas repetitivas de si todavía lo ama o si ya se cansó de él (<i>"¿No me amas entonces?", "¿Te desespero o te causo tristeza?", "¿Ya no valgo?"</i>).
-                    </p>
-                    <div class="grid grid-cols-1 md:grid-cols-2 gap-3 text-xs pt-1">
-                        <div class="bg-rose-950/40 p-3 rounded-xl border border-rose-500/20">
-                            <span class="font-bold text-rose-300 block mb-1">Impacto:</span> Carga a la pareja con la obligación de estar reafirmando sus sentimientos constantemente.
-                        </div>
-                        <div class="bg-emerald-950/40 p-3 rounded-xl border border-emerald-500/20">
-                            <span class="font-bold text-emerald-300 block mb-1">Cómo Sanarlo:</span> Confiar en los 405 días de presencia y en los hechos más que en el miedo.
-                        </div>
+                    <p class="text-xs text-slate-300">Preguntar repetitivamente si todavía lo ama o si está aburrida de él (<i>"¿No me amas entonces?", "¿Ya no valgo?"</i>).</p>
+                    <div class="bg-emerald-950/40 p-2.5 rounded-xl border border-emerald-500/20 text-xs text-emerald-300">
+                        <b>Cómo Sanarlo:</b> Confiar en los hechos y en la presencia diaria de 405 días más que en la necesidad de reafirmación verbal continua.
                     </div>
                 </div>
 
                 <!-- RF 7 -->
-                <div class="glass-card rounded-2xl p-6 border-l-4 border-l-rose-500 space-y-3">
+                <div class="glass-card rounded-2xl p-5 border-l-4 border-l-rose-500 space-y-2">
                     <div class="flex flex-wrap items-center justify-between gap-2">
-                        <div class="flex items-center gap-2.5">
-                            <span class="w-8 h-8 rounded-lg bg-rose-500/20 text-rose-300 flex items-center justify-center font-bold text-xs">7</span>
-                            <h4 class="text-base font-bold text-white">Dificultad para Expresar Necesidades con Claridad (Alexa)</h4>
-                        </div>
-                        <span class="badge-red text-[11px] px-2.5 py-0.5 rounded-full font-medium">Falta de Claridad</span>
+                        <span class="font-bold text-white text-sm">7. Dificultad para Expresar Necesidades de Forma Directa (Alexa)</span>
+                        <span class="badge-red text-[10px] px-2 py-0.5 rounded-full">Falta de Claridad</span>
                     </div>
-                    <p class="text-xs text-slate-300 leading-relaxed">
-                        Responder con monosílabos o stickers ambiguos cuando algo le disgustó, obligando a Gabriel a "adivinar" el problema en vez de decirlo de frente.
-                    </p>
-                    <div class="grid grid-cols-1 md:grid-cols-2 gap-3 text-xs pt-1">
-                        <div class="bg-rose-950/40 p-3 rounded-xl border border-rose-500/20">
-                            <span class="font-bold text-rose-300 block mb-1">Impacto:</span> Alarga los desacuerdos innecesariamente y genera frustración en ambos.
-                        </div>
-                        <div class="bg-emerald-950/40 p-3 rounded-xl border border-emerald-500/20">
-                            <span class="font-bold text-emerald-300 block mb-1">Cómo Sanarlo:</span> Decirlo directamente: <i>"Me incomodó lo que pasó hoy, preferiría que lo hiciéramos así la próxima vez"</i>.
-                        </div>
+                    <p class="text-xs text-slate-300">Monosílabos o stickers ambiguos cuando algo molestó, forzando a Gabriel a "adivinar" el motivo.</p>
+                    <div class="bg-emerald-950/40 p-2.5 rounded-xl border border-emerald-500/20 text-xs text-emerald-300">
+                        <b>Cómo Sanarlo:</b> Decirlo con claridad: <i>"Me incomodó lo que pasó hoy, preferiría que lo hiciéramos así la próxima vez"</i>.
                     </div>
                 </div>
 
                 <!-- RF 8 -->
-                <div class="glass-card rounded-2xl p-6 border-l-4 border-l-rose-500 space-y-3">
+                <div class="glass-card rounded-2xl p-5 border-l-4 border-l-rose-500 space-y-2">
                     <div class="flex flex-wrap items-center justify-between gap-2">
-                        <div class="flex items-center gap-2.5">
-                            <span class="w-8 h-8 rounded-lg bg-rose-500/20 text-rose-300 flex items-center justify-center font-bold text-xs">8</span>
-                            <h4 class="text-base font-bold text-white">Dificultad para Sostener Límites Personales (Gabriel)</h4>
-                        </div>
-                        <span class="badge-red text-[11px] px-2.5 py-0.5 rounded-full font-medium">Autocuidado</span>
+                        <span class="font-bold text-white text-sm">8. Dificultad para Sostener Límites Personales (Gabriel)</span>
+                        <span class="badge-red text-[10px] px-2 py-0.5 rounded-full">Autocuidado</span>
                     </div>
-                    <p class="text-xs text-slate-300 leading-relaxed">
-                        Postergar horas de sueño, estudio o tareas por miedo a que Alexa se moleste si tarda unos minutos en responder.
-                    </p>
-                    <div class="grid grid-cols-1 md:grid-cols-2 gap-3 text-xs pt-1">
-                        <div class="bg-rose-950/40 p-3 rounded-xl border border-rose-500/20">
-                            <span class="font-bold text-rose-300 block mb-1">Impacto:</span> Acumula cansancio físico que termina afectando el humor en la relación.
-                        </div>
-                        <div class="bg-emerald-950/40 p-3 rounded-xl border border-emerald-500/20">
-                            <span class="font-bold text-emerald-300 block mb-1">Cómo Sanarlo:</span> Comunicar sus horarios con paz: <i>"Amor, me concentro 1 hora en esta tarea y te escribo en cuanto acabe"</i>.
-                        </div>
+                    <p class="text-xs text-slate-300">Postergar horas de sueño o estudio por miedo a que Alexa se moleste si no contesta de inmediato.</p>
+                    <div class="bg-emerald-950/40 p-2.5 rounded-xl border border-emerald-500/20 text-xs text-emerald-300">
+                        <b>Cómo Sanarlo:</b> Comunicar horarios con tranquilidad: <i>"Amor, me concentro 1 hora en esta tarea y te llamo en cuanto acabe"</i>.
                     </div>
                 </div>
 
                 <!-- RF 9 -->
-                <div class="glass-card rounded-2xl p-6 border-l-4 border-l-rose-500 space-y-3">
+                <div class="glass-card rounded-2xl p-5 border-l-4 border-l-rose-500 space-y-2">
                     <div class="flex flex-wrap items-center justify-between gap-2">
-                        <div class="flex items-center gap-2.5">
-                            <span class="w-8 h-8 rounded-lg bg-rose-500/20 text-rose-300 flex items-center justify-center font-bold text-xs">9</span>
-                            <h4 class="text-base font-bold text-white">Asimetría en la Expresión de Afecto Verbal (Dinámica)</h4>
-                        </div>
-                        <span class="badge-red text-[11px] px-2.5 py-0.5 rounded-full font-medium">Desbalance</span>
+                        <span class="font-bold text-white text-sm">9. Asimetría en la Expresión de Afecto Verbal (Dinámica)</span>
+                        <span class="badge-red text-[10px] px-2 py-0.5 rounded-full">Desbalance</span>
                     </div>
-                    <p class="text-xs text-slate-300 leading-relaxed">
-                        Gabriel diciendo <i>"Te amo"</i> más de 1,000 veces en texto vs Alexa expresándolo de forma verbal casi exclusivamente reactiva o con stickers.
-                    </p>
-                    <div class="grid grid-cols-1 md:grid-cols-2 gap-3 text-xs pt-1">
-                        <div class="bg-rose-950/40 p-3 rounded-xl border border-rose-500/20">
-                            <span class="font-bold text-rose-300 block mb-1">Impacto:</span> Puede alimentar la sensación de que el compromiso es desigual.
-                        </div>
-                        <div class="bg-emerald-950/40 p-3 rounded-xl border border-emerald-500/20">
-                            <span class="font-bold text-emerald-300 block mb-1">Cómo Sanarlo:</span> Que Alexa se anime a expresar afecto verbal directo y Gabriel valore el lenguaje visual y práctico de Alexa.
-                        </div>
+                    <p class="text-xs text-slate-300">+1,000 "te amo" en texto de Gabriel vs afecto casi solo reactivo o con stickers de Alexa.</p>
+                    <div class="bg-emerald-950/40 p-2.5 rounded-xl border border-emerald-500/20 text-xs text-emerald-300">
+                        <b>Cómo Sanarlo:</b> Que Alexa se anime a expresar afecto verbal directo y Gabriel valore el lenguaje práctico de Alexa.
                     </div>
                 </div>
 
                 <!-- RF 10 -->
-                <div class="glass-card rounded-2xl p-6 border-l-4 border-l-rose-500 space-y-3">
+                <div class="glass-card rounded-2xl p-5 border-l-4 border-l-rose-500 space-y-2">
                     <div class="flex flex-wrap items-center justify-between gap-2">
-                        <div class="flex items-center gap-2.5">
-                            <span class="w-8 h-8 rounded-lg bg-rose-500/20 text-rose-300 flex items-center justify-center font-bold text-xs">10</span>
-                            <h4 class="text-base font-bold text-white">Intentar Resolver Desacuerdos por Texto (Ambos)</h4>
-                        </div>
-                        <span class="badge-red text-[11px] px-2.5 py-0.5 rounded-full font-medium">Canal Inadecuado</span>
+                        <span class="font-bold text-white text-sm">10. Intentar Resolver Fricciones Complejas por Texto (Ambos)</span>
+                        <span class="badge-red text-[10px] px-2 py-0.5 rounded-full">Canal Inadecuado</span>
                     </div>
-                    <p class="text-xs text-slate-300 leading-relaxed">
-                        Discutir temas sensibles por WhatsApp, donde la falta de tono y mirada hace que todo se lea como frío o agresivo.
-                    </p>
-                    <div class="grid grid-cols-1 md:grid-cols-2 gap-3 text-xs pt-1">
-                        <div class="bg-rose-950/40 p-3 rounded-xl border border-rose-500/20">
-                            <span class="font-bold text-rose-300 block mb-1">Impacto:</span> Multiplica los malentendidos y alarga los roces.
-                        </div>
-                        <div class="bg-emerald-950/40 p-3 rounded-xl border border-emerald-500/20">
-                            <span class="font-bold text-emerald-300 block mb-1">Cómo Sanarlo:</span> El chat es para el día a día; los desacuerdos serios se hablan en persona o por llamada con calidez.
-                        </div>
+                    <p class="text-xs text-slate-300">Discutir temas delicados por WhatsApp donde la falta de tono hace que los mensajes se lean como agresivos.</p>
+                    <div class="bg-emerald-950/40 p-2.5 rounded-xl border border-emerald-500/20 text-xs text-emerald-300">
+                        <b>Cómo Sanarlo:</b> El chat es para acompañarse; cualquier inconformidad seria se habla cara a cara con un abrazo.
                     </div>
                 </div>
 
                 <!-- RF 11 -->
-                <div class="glass-card rounded-2xl p-6 border-l-4 border-l-rose-500 space-y-3">
+                <div class="glass-card rounded-2xl p-5 border-l-4 border-l-rose-500 space-y-2">
                     <div class="flex flex-wrap items-center justify-between gap-2">
-                        <div class="flex items-center gap-2.5">
-                            <span class="w-8 h-8 rounded-lg bg-rose-500/20 text-rose-300 flex items-center justify-center font-bold text-xs">11</span>
-                            <h4 class="text-base font-bold text-white">Minimización de las Incomodidades del Otro (Alexa)</h4>
-                        </div>
-                        <span class="badge-red text-[11px] px-2.5 py-0.5 rounded-full font-medium">Desdén</span>
+                        <span class="font-bold text-white text-sm">11. Minimización de las Incomodidades del Otro (Alexa)</span>
+                        <span class="badge-red text-[10px] px-2 py-0.5 rounded-full">Desdén</span>
                     </div>
-                    <p class="text-xs text-slate-300 leading-relaxed">
-                        Responder con sarcasmo o desdén (<i>"Dieee", "Tu también", "No es lo mismo"</i>) cuando Gabriel intenta plantear una molestia o desahogarse de su día.
-                    </p>
-                    <div class="grid grid-cols-1 md:grid-cols-2 gap-3 text-xs pt-1">
-                        <div class="bg-rose-950/40 p-3 rounded-xl border border-rose-500/20">
-                            <span class="font-bold text-rose-300 block mb-1">Impacto:</span> Hace que la otra parte sienta que sus sentimientos no son tomados en serio.
-                        </div>
-                        <div class="bg-emerald-950/40 p-3 rounded-xl border border-emerald-500/20">
-                            <span class="font-bold text-emerald-300 block mb-1">Cómo Sanarlo:</span> Validar primero antes de opinar: <i>"Entiendo por qué te molestó eso, te escucho"</i>.
-                        </div>
+                    <p class="text-xs text-slate-300">Responder con sarcasmo o desdén (<i>"Dieee", "Tu también"</i>) cuando Gabriel intenta desahogarse de su día.</p>
+                    <div class="bg-emerald-950/40 p-2.5 rounded-xl border border-emerald-500/20 text-xs text-emerald-300">
+                        <b>Cómo Sanarlo:</b> Validar primero antes de emitir juicio: <i>"Entiendo por qué te molestó eso, te escucho"</i>.
                     </div>
                 </div>
 
                 <!-- RF 12 -->
-                <div class="glass-card rounded-2xl p-6 border-l-4 border-l-rose-500 space-y-3">
+                <div class="glass-card rounded-2xl p-5 border-l-4 border-l-rose-500 space-y-2">
                     <div class="flex flex-wrap items-center justify-between gap-2">
-                        <div class="flex items-center gap-2.5">
-                            <span class="w-8 h-8 rounded-lg bg-rose-500/20 text-rose-300 flex items-center justify-center font-bold text-xs">12</span>
-                            <h4 class="text-base font-bold text-white">Fantasías Catastróficas ante Demoras Normales (Gabriel)</h4>
-                        </div>
-                        <span class="badge-red text-[11px] px-2.5 py-0.5 rounded-full font-medium">Hipervigilancia</span>
+                        <span class="font-bold text-white text-sm">12. Fantasías Catastróficas ante Demoras Normales (Gabriel)</span>
+                        <span class="badge-red text-[10px] px-2 py-0.5 rounded-full">Hipervigilancia</span>
                     </div>
-                    <p class="text-xs text-slate-300 leading-relaxed">
-                        Asumir de inmediato que ella está enojada o que algo grave ocurrió ante un retraso de 15 a 20 minutos en contestar (<i>"Ya andaba preocupado...", "Perdón por molestar"</i>).
-                    </p>
-                    <div class="grid grid-cols-1 md:grid-cols-2 gap-3 text-xs pt-1">
-                        <div class="bg-rose-950/40 p-3 rounded-xl border border-rose-500/20">
-                            <span class="font-bold text-rose-300 block mb-1">Impacto:</span> Genera una atmósfera de tensión constante donde nadie puede desconectarse un momento.
-                        </div>
-                        <div class="bg-emerald-950/40 p-3 rounded-xl border border-emerald-500/20">
-                            <span class="font-bold text-emerald-300 block mb-1">Cómo Sanarlo:</span> Asumir la intención positiva: entender que la otra persona simplemente está ocupada o descansando.
-                        </div>
+                    <p class="text-xs text-slate-300">Imaginar de inmediato que ella está molesta por un retraso de 15 minutos en contestar.</p>
+                    <div class="bg-emerald-950/40 p-2.5 rounded-xl border border-emerald-500/20 text-xs text-emerald-300">
+                        <b>Cómo Sanarlo:</b> Asumir intención positiva: entender que la otra persona simplemente está ocupada o descansando.
                     </div>
                 </div>
 
                 <!-- RF 13 -->
-                <div class="glass-card rounded-2xl p-6 border-l-4 border-l-rose-500 space-y-3">
+                <div class="glass-card rounded-2xl p-5 border-l-4 border-l-rose-500 space-y-2">
                     <div class="flex flex-wrap items-center justify-between gap-2">
-                        <div class="flex items-center gap-2.5">
-                            <span class="w-8 h-8 rounded-lg bg-rose-500/20 text-rose-300 flex items-center justify-center font-bold text-xs">13</span>
-                            <h4 class="text-base font-bold text-white">Volcar Frustraciones Externas en la Pareja (Ambos)</h4>
-                        </div>
-                        <span class="badge-red text-[11px] px-2.5 py-0.5 rounded-full font-medium">Contagio Emocional</span>
+                        <span class="font-bold text-white text-sm">13. Volcar Frustraciones Externas en la Pareja (Ambos)</span>
+                        <span class="badge-red text-[10px] px-2 py-0.5 rounded-full">Contagio Emocional</span>
                     </div>
-                    <p class="text-xs text-slate-300 leading-relaxed">
-                        Llegar con mala actitud o tono cortante al chat debido a problemas con hermanos, papás, maestros o desvelos escolares, desquitándose inconscientemente con la pareja.
-                    </p>
-                    <div class="grid grid-cols-1 md:grid-cols-2 gap-3 text-xs pt-1">
-                        <div class="bg-rose-950/40 p-3 rounded-xl border border-rose-500/20">
-                            <span class="font-bold text-rose-300 block mb-1">Impacto:</span> Convierte al chat de la pareja en un pararrayos del estrés ajeno.
-                        </div>
-                        <div class="bg-emerald-950/40 p-3 rounded-xl border border-emerald-500/20">
-                            <span class="font-bold text-emerald-300 block mb-1">Cómo Sanarlo:</span> Poner en palabras el estado de ánimo: <i>"Vengo de malas por una discusión en mi casa, no es contigo corazón"</i>.
-                        </div>
+                    <p class="text-xs text-slate-300">Llegar cortante o a la defensiva por problemas familiares o escolares ajenos a la pareja.</p>
+                    <div class="bg-emerald-950/40 p-2.5 rounded-xl border border-emerald-500/20 text-xs text-emerald-300">
+                        <b>Cómo Sanarlo:</b> Explicar el estado de ánimo previo: <i>"Vengo de malas por una discusión en mi casa, no es contigo corazón"</i>.
                     </div>
                 </div>
 
                 <!-- RF 14 -->
-                <div class="glass-card rounded-2xl p-6 border-l-4 border-l-rose-500 space-y-3">
+                <div class="glass-card rounded-2xl p-5 border-l-4 border-l-rose-500 space-y-2">
                     <div class="flex flex-wrap items-center justify-between gap-2">
-                        <div class="flex items-center gap-2.5">
-                            <span class="w-8 h-8 rounded-lg bg-rose-500/20 text-rose-300 flex items-center justify-center font-bold text-xs">14</span>
-                            <h4 class="text-base font-bold text-white">Barrer los Conflictos bajo la Alfombra (Ambos)</h4>
-                        </div>
-                        <span class="badge-red text-[11px] px-2.5 py-0.5 rounded-full font-medium">Falta de Cierre</span>
+                        <span class="font-bold text-white text-sm">14. Barrer los Conflictos bajo la Alfombra (Ambos)</span>
+                        <span class="badge-red text-[10px] px-2 py-0.5 rounded-full">Falta de Cierre</span>
                     </div>
-                    <p class="text-xs text-slate-300 leading-relaxed">
-                        Cerrar las discusiones rápidamente con disculpas automáticas o stickers graciosos sin hablar después con calma sobre cómo evitar que la situación se repita.
-                    </p>
-                    <div class="grid grid-cols-1 md:grid-cols-2 gap-3 text-xs pt-1">
-                        <div class="bg-rose-950/40 p-3 rounded-xl border border-rose-500/20">
-                            <span class="font-bold text-rose-300 block mb-1">Impacto:</span> La causa raíz (inseguridad o expectativas) resurge semanas después en el mismo formato.
-                        </div>
-                        <div class="bg-emerald-950/40 p-3 rounded-xl border border-emerald-500/20">
-                            <span class="font-bold text-emerald-300 block mb-1">Cómo Sanarlo:</span> Hacer chequeos semanales: <i>"Oye, lo del otro día ya quedó bien, ¿verdad? ¿Cómo nos sentimos?"</i>.
-                        </div>
+                    <p class="text-xs text-slate-300">Cerrar discusiones rápido con stickers sin hablar después con calma sobre cómo evitar que se repita la causa.</p>
+                    <div class="bg-emerald-950/40 p-2.5 rounded-xl border border-emerald-500/20 text-xs text-emerald-300">
+                        <b>Cómo Sanarlo:</b> Hacer chequeos de calma: <i>"Oye, lo del otro día ya quedó bien, ¿verdad? ¿Cómo nos sentimos?"</i>.
                     </div>
                 </div>
 
                 <!-- RF 15 -->
-                <div class="glass-card rounded-2xl p-6 border-l-4 border-l-rose-500 space-y-3">
+                <div class="glass-card rounded-2xl p-5 border-l-4 border-l-rose-500 space-y-2">
                     <div class="flex flex-wrap items-center justify-between gap-2">
-                        <div class="flex items-center gap-2.5">
-                            <span class="w-8 h-8 rounded-lg bg-rose-500/20 text-rose-300 flex items-center justify-center font-bold text-xs">15</span>
-                            <h4 class="text-base font-bold text-white">Expectativas No Habladas de Horarios y Planes (Ambos)</h4>
-                        </div>
-                        <span class="badge-red text-[11px] px-2.5 py-0.5 rounded-full font-medium">Falta de Planificación</span>
+                        <span class="font-bold text-white text-sm">15. Expectativas No Habladas de Horarios y Planes (Ambos)</span>
+                        <span class="badge-red text-[10px] px-2 py-0.5 rounded-full">Falta de Planificación</span>
                     </div>
-                    <p class="text-xs text-slate-300 leading-relaxed">
-                        Molestarse o frustrarse cuando los horarios de salida o planes no coinciden (ej. salí antes/después, cursos de baile), en vez de confirmar con anticipación.
-                    </p>
-                    <div class="grid grid-cols-1 md:grid-cols-2 gap-3 text-xs pt-1">
-                        <div class="bg-rose-950/40 p-3 rounded-xl border border-rose-500/20">
-                            <span class="font-bold text-rose-300 block mb-1">Impacto:</span> Genera desacuerdos evitables por falta de coordinación previa.
-                        </div>
-                        <div class="bg-emerald-950/40 p-3 rounded-xl border border-emerald-500/20">
-                            <span class="font-bold text-emerald-300 block mb-1">Cómo Sanarlo:</span> Coordinar agendas por la mañana: <i>"Hoy salgo a las 2 y tengo curso a las 3, ¿nos vemos 15 minutos en el receso?"</i>.
-                        </div>
+                    <p class="text-xs text-slate-300">Frustrarse cuando las salidas no coinciden en lugar de coordinar agendas con anticipación.</p>
+                    <div class="bg-emerald-950/40 p-2.5 rounded-xl border border-emerald-500/20 text-xs text-emerald-300">
+                        <b>Cómo Sanarlo:</b> Coordinar horarios por la mañana: <i>"Hoy salgo a las 2 y tengo curso a las 3, ¿nos vemos en el receso?"</i>.
+                    </div>
+                </div>
+
+                <!-- RF 16 -->
+                <div class="glass-card rounded-2xl p-5 border-l-4 border-l-rose-500 space-y-2">
+                    <div class="flex flex-wrap items-center justify-between gap-2">
+                        <span class="font-bold text-white text-sm">16. Edición y Eliminación de Mensajes por Inseguridad (Ambos)</span>
+                        <span class="badge-red text-[10px] px-2 py-0.5 rounded-full">Inseguridad Expresiva</span>
+                    </div>
+                    <p class="text-xs text-slate-300">Eliminar o sobre-editar mensajes (más de 110 eliminados) cuando la otra persona tarda en contestar por miedo a cómo se leerán.</p>
+                    <div class="bg-emerald-950/40 p-2.5 rounded-xl border border-emerald-500/20 text-xs text-emerald-300">
+                        <b>Cómo Sanarlo:</b> Confiar en la espontaneidad y naturalidad del mensaje sin miedo a ser juzgado por la pareja.
+                    </div>
+                </div>
+
+                <!-- RF 17 -->
+                <div class="glass-card rounded-2xl p-5 border-l-4 border-l-rose-500 space-y-2">
+                    <div class="flex flex-wrap items-center justify-between gap-2">
+                        <span class="font-bold text-white text-sm">17. Confundir Cansancio Físico con Desinterés Afectivo (Gabriel)</span>
+                        <span class="badge-red text-[10px] px-2 py-0.5 rounded-full">Interpretación Errónea</span>
+                    </div>
+                    <p class="text-xs text-slate-300">Interpretar que Alexa ya no tiene interés cuando en realidad está exhausta por desvelos, cursos o ensayos de baile.</p>
+                    <div class="bg-emerald-950/40 p-2.5 rounded-xl border border-emerald-500/20 text-xs text-emerald-300">
+                        <b>Cómo Sanarlo:</b> Reconocer el agotamiento físico del otro y ofrecerle descanso sin tomárselo como rechazo personal.
+                    </div>
+                </div>
+
+                <!-- RF 18 -->
+                <div class="glass-card rounded-2xl p-5 border-l-4 border-l-rose-500 space-y-2">
+                    <div class="flex flex-wrap items-center justify-between gap-2">
+                        <span class="font-bold text-white text-sm">18. Colgar Llamadas o Salirse sin Explicación Previa (Ambos)</span>
+                        <span class="badge-red text-[10px] px-2 py-0.5 rounded-full">Corte Abrupto</span>
+                    </div>
+                    <p class="text-xs text-slate-300">Colgar llamadas o salirse del chat sin avisar (<i>"¿Por qué me colgaste?", "Te saliste?"</i>), generando desconcierto.</p>
+                    <div class="bg-emerald-950/40 p-2.5 rounded-xl border border-emerald-500/20 text-xs text-emerald-300">
+                        <b>Cómo Sanarlo:</b> Un aviso simple antes de salir: <i>"Amor, me tengo que desconectar 10 minutos para atender algo rápido"</i>.
+                    </div>
+                </div>
+
+                <!-- RF 19 -->
+                <div class="glass-card rounded-2xl p-5 border-l-4 border-l-rose-500 space-y-2">
+                    <div class="flex flex-wrap items-center justify-between gap-2">
+                        <span class="font-bold text-white text-sm">19. Inseguridad y Comentarios sobre Límites de Contacto Físico</span>
+                        <span class="badge-red text-[10px] px-2 py-0.5 rounded-full">Comunicación de Consentimiento</span>
+                    </div>
+                    <p class="text-xs text-slate-300">Gabriel pidiendo disculpas por afecto físico sin que Alexa aclare si le agradó o incomodó, dejando la duda en el aire.</p>
+                    <div class="bg-emerald-950/40 p-2.5 rounded-xl border border-emerald-500/20 text-xs text-emerald-300">
+                        <b>Cómo Sanarlo:</b> Hablar abiertamente sobre los momentos y espacios donde ambos se sienten cómodos y queridos con naturalidad.
+                    </div>
+                </div>
+
+                <!-- RF 20 -->
+                <div class="glass-card rounded-2xl p-5 border-l-4 border-l-rose-500 space-y-2">
+                    <div class="flex flex-wrap items-center justify-between gap-2">
+                        <span class="font-bold text-white text-sm">20. Acumulación Silenciosa de Malestares (Efecto Olla de Presión)</span>
+                        <span class="badge-red text-[10px] px-2 py-0.5 rounded-full">Contención Emocional</span>
+                    </div>
+                    <p class="text-xs text-slate-300">Guardarse pequeños disgustos cotidianos para no incomodar, hasta que explotan semanas después en respuestas secas.</p>
+                    <div class="bg-emerald-950/40 p-2.5 rounded-xl border border-emerald-500/20 text-xs text-emerald-300">
+                        <b>Cómo Sanarlo:</b> Comunicar las pequeñas cosas el mismo día con cariño: <i>"Oye, esto me hizo sentir raro hoy, te lo cuento para estar en paz"</i>.
                     </div>
                 </div>
 
@@ -816,7 +671,7 @@
                     </h3>
                     <p class="text-xs text-slate-400 mb-4">Muestra los picos de interacción a lo largo de 19 meses.</p>
                     <div class="h-64">
-                        <canvas id="monthlyChart3"></canvas>
+                        <canvas id="monthlyChart4"></canvas>
                     </div>
                 </div>
 
@@ -827,7 +682,7 @@
                     </h3>
                     <p class="text-xs text-slate-400 mb-4">Distribución de actividad a lo largo de las 24 horas.</p>
                     <div class="h-64">
-                        <canvas id="hourlyChart3"></canvas>
+                        <canvas id="hourlyChart4"></canvas>
                     </div>
                 </div>
             </div>
@@ -841,7 +696,7 @@
                     </h3>
                     <p class="text-xs text-slate-400 mb-4">Conteo comparativo de palabras afectivas.</p>
                     <div class="h-64">
-                        <canvas id="affectionChart3"></canvas>
+                        <canvas id="affectionChart4"></canvas>
                     </div>
                 </div>
 
@@ -852,7 +707,7 @@
                     </h3>
                     <p class="text-xs text-slate-400 mb-4">Gabriel es más verbal en texto; Alexa se apoya más en stickers y fotos.</p>
                     <div class="h-64">
-                        <canvas id="ratioChart3"></canvas>
+                        <canvas id="ratioChart4"></canvas>
                     </div>
                 </div>
             </div>
@@ -997,7 +852,7 @@
             const aMonthly = months.map(m => monthlyData[m]["Alexa"]);
 
             // Chart 1: Monthly
-            const ctxMonthly = document.getElementById('monthlyChart3').getContext('2d');
+            const ctxMonthly = document.getElementById('monthlyChart4').getContext('2d');
             new Chart(ctxMonthly, {
                 type: 'line',
                 data: {
@@ -1022,7 +877,7 @@
             const gHourly = Array.from({length: 24}, (_, i) => hourlyData[i] ? hourlyData[i]["Gabriel"] : 0);
             const aHourly = Array.from({length: 24}, (_, i) => hourlyData[i] ? hourlyData[i]["Alexa"] : 0);
 
-            const ctxHourly = document.getElementById('hourlyChart3').getContext('2d');
+            const ctxHourly = document.getElementById('hourlyChart4').getContext('2d');
             new Chart(ctxHourly, {
                 type: 'bar',
                 data: {
@@ -1047,7 +902,7 @@
             const gAff = affKeys.map(k => affectionData[k]["Gabriel"]);
             const aAff = affKeys.map(k => affectionData[k]["Alexa"]);
 
-            const ctxAff = document.getElementById('affectionChart3').getContext('2d');
+            const ctxAff = document.getElementById('affectionChart4').getContext('2d');
             new Chart(ctxAff, {
                 type: 'bar',
                 data: {
@@ -1068,7 +923,7 @@
             });
 
             // Chart 4: Ratio Words vs Media Doughnut
-            const ctxRatio = document.getElementById('ratioChart3').getContext('2d');
+            const ctxRatio = document.getElementById('ratioChart4').getContext('2d');
             new Chart(ctxRatio, {
                 type: 'doughnut',
                 data: {
