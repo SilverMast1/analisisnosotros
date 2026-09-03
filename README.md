@@ -1,37 +1,46 @@
-# Gabriel & Alexa | Análisis Integral de Green Flags & Red Flags (2025 - 2026)
+# Gabriel & Alexa | Análisis Integral de Pareja (15 Green Flags & 15 Red Flags)
 
-Este repositorio contiene un estudio exhaustivo y visualización interactiva de **108,144 mensajes** compartidos a lo largo de **405 días activos** (2,044 páginas de historial de WhatsApp) entre **Gabriel y Alexa**, enfocado en destacar las fortalezas del vínculo y transformar las áreas de oportunidad.
+Este repositorio contiene un estudio forense exhaustivo y visualización interactiva de **108,144 mensajes** compartidos a lo largo de **405 días activos** (2,044 páginas de historial de WhatsApp) entre **Gabriel y Alexa**, diseñado para celebrar las fortalezas del vínculo y transformar las áreas de oportunidad.
 
 ---
 
 ## 🌟 Contenido del Portal (`index.html`)
 
-El portal web interactivo está estructurado en 4 secciones claras y profundas:
+El portal web interactivo contiene:
 
-1. **🌿 10 Grandes Green Flags (Fortalezas de Nuestra Relación):**
-   - Presencia diaria ininterrumpida (405 días continuos sin silencios).
-   - Equipo y soporte académico constante (apoyo en exámenes pesados y proyectos).
-   - Actos de servicio y disposición de ayuda (compras, acompañamiento y esperas entre clases).
-   - Cuidado mutuo de la salud y bienestar físico (comida, hidratación en el calor y descanso).
-   - Complicidad, humor y códigos íntimos (+18,600 fotos/stickers y apodos de cariño).
-   - Validación estética y admiración física constante (*"100000/10"*, *"Autorizo"*, *"Me encantas"*).
-   - Voluntad firme de reconciliación rápida (ningún conflicto dura días).
-   - Transparencia y rendición cotidiana espontánea.
-   - Espacio seguro para desahogar emociones y problemas escolares/familiares.
-   - Lealtad absoluta y exclusividad demostrada en 108k mensajes.
+1. **🌿 15 Grandes Green Flags (Nuestras Fortalezas Sólidas):**
+   - 1. Presencia Diaria Ininterrumpida (405 días continuos sin silencios).
+   - 2. Soporte y Equipo Académico (desvelos y motivación en exámenes pesados).
+   - 3. Actos de Servicio y Ayuda (compras, comida y esperas entre clases).
+   - 4. Cuidado Físico y de Salud (comida a tiempo, hidratación en el calor y descanso).
+   - 5. Complicidad y Humor Íntimo (+18,600 fotos/stickers y apodos de cariño).
+   - 6. Validación Estética Continua (*"100000/10"*, *"Autorizo"*, *"Me encantas"*).
+   - 7. Voluntad de Reconciliación Rápida (ningún conflicto dura días).
+   - 8. Transparencia Espontánea de Rutinas (avisos naturales de salidas y clases).
+   - 9. Lealtad y Exclusividad Total (cero indicios de terceros en 19 meses).
+   - 10. Inclusión Familiar Natural (anécdotas de hermanos, papás y abuelitas).
+   - 11. Hobbies y Planes Compartidos (Roblox, cine Spider-Man, música).
+   - 12. Reciprocidad y Apoyo Práctico (coordinación justa con gastos y comida).
+   - 13. Refugio Emocional sin Juicios (escucha activa ante problemas externos).
+   - 14. Prioridad de Verse en Persona (aprovechar descansos y abrazos reales).
+   - 15. Aceptación Auténtica del Otro (elegirse en días buenos y difíciles).
 
-2. **🚩 10 Red Flags (Puntos a Pulir & Guía para Sanarlos):**
-   - Auto-inculpación compulsiva y sobre-disculpa crónica (Gabriel).
-   - Ley del hielo y respuestas cortantes / stonewalling (Alexa).
-   - Ráfagas de mensajes e impaciencia ante la frialdad (Gabriel).
-   - El "rechazo de broma" en momentos sensibles (Alexa).
-   - Narrativa de abandono como test de afecto (Alexa).
-   - Búsqueda constante de validación y miedo al desinterés (Gabriel).
-   - Dificultad para expresar necesidades de forma asertiva (Alexa).
-   - Dificultad para sostener límites y tiempos personales (Gabriel).
-   - Asimetría marcada en la expresión de afecto verbal (Dinámica).
-   - Intentar resolver fricciones complejas por mensaje de texto (Ambos).
-   *Cada una incluye su impacto psicológico y la fórmula para transformarla en una Green Flag.*
+2. **🚩 15 Red Flags (Puntos a Pulir & Guía para Sanarlos):**
+   - 1. Auto-Inculpación Compulsiva y Sobre-Disculpa (Gabriel).
+   - 2. Ley del Hielo y Respuestas Cortantes / Stonewalling (Alexa).
+   - 3. Ráfagas de Mensajes e Impaciencia ante la Frialdad (Gabriel).
+   - 4. El "Rechazo de Broma" en Momentos Sensibles (Alexa).
+   - 5. Narrativa de Abandono como Test de Cariño (Alexa).
+   - 6. Búsqueda Constante de Validación (Gabriel).
+   - 7. Dificultad para Expresar Necesidades con Claridad (Alexa).
+   - 8. Dificultad para Sostener Límites Personales (Gabriel).
+   - 9. Asimetría en la Expresión de Afecto Verbal (Dinámica).
+   - 10. Intentar Resolver Desacuerdos por Texto (Ambos).
+   - 11. Minimización de las Incomodidades del Otro (Alexa).
+   - 12. Fantasías Catastróficas ante Demoras Normales (Gabriel).
+   - 13. Volcar Frustraciones Externas en la Pareja (Ambos).
+   - 14. Barrer los Conflictos bajo la Alfombra (Ambos).
+   - 15. Expectativas No Habladas de Horarios y Planes (Ambos).
 
 3. **📊 Métricas & Gráficos Dinámicos (Chart.js):**
    - Evolución mensual a lo largo de 19 meses.
@@ -41,7 +50,7 @@ El portal web interactivo está estructurado en 4 secciones claras y profundas:
 
 4. **💡 Claves de Comunicación & Psicología de Pareja:**
    - La regla de los 20 minutos de calma.
-   - Sustituir la disculpa por validación activa.
+   - Sustituir la disculpa sumisa por validación activa.
    - Cuidar el humor en momentos vulnerables.
    - Hablar los temas delicados cara a cara.
 
@@ -61,7 +70,7 @@ El portal web interactivo está estructurado en 4 secciones claras y profundas:
 ## 🚀 Cómo Visualizarlo
 
 - **En la computadora:** Haz doble clic sobre `index.html`.
-- **En el celular (vía GitHub Pages):** Activa GitHub Pages en `Settings > Pages` de este repositorio para acceder mediante el enlace público `https://silvermast1.github.io/analisisnosotros/`.
+- **En el celular (vía GitHub Pages):** [https://silvermast1.github.io/analisisnosotros/](https://silvermast1.github.io/analisisnosotros/)
 
 ---
 
