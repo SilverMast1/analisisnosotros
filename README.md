@@ -1,10 +1,10 @@
-# Gabriel & Alexa | Suite Integral de Pareja (30 Green Flags, 30 Red Flags & 30 Ideas de Mejora)
+# Gabriel & Alexa | Suite Integral de Pareja (30-30-30, Matriz FODA & Dictamen IA)
 
-Este repositorio contiene la auditoría forense exhaustiva y visualización interactiva de **108,144 mensajes** compartidos a lo largo de **405 días activos** (2,044 páginas de historial de WhatsApp) entre **Gabriel y Alexa**, con citas textuales directas en cada fortaleza y área de oportunidad, más un plan integral de **30 ideas prácticas de mejora**.
+Este repositorio contiene la auditoría forense exhaustiva y visualización interactiva de **108,144 mensajes** compartidos a lo largo de **405 días activos** (2,044 páginas de historial de WhatsApp) entre **Gabriel y Alexa**, con citas textuales directas en cada fortaleza y área de oportunidad, plan de **30 ideas prácticas de mejora**, una **Matriz FODA estratégica de pareja**, auditoría de frecuencia de disculpas (*"perdón"*) y análisis de mensajes eliminados/editados.
 
 ---
 
-## 🌟 Contenido del Portal (`index.html`)
+## 🌟 Contenido del Portal (`index.html` / `analisis_pareja.html`)
 
 El portal web interactivo contiene:
 
@@ -56,7 +56,7 @@ El portal web interactivo contiene:
    - 13. Volcar Frustraciones Externas en la Pareja — Llegar alterado por temas familiares.
    - 14. Barrer Conflictos bajo la Alfombra — Cerrar rápido sin hablar la raíz.
    - 15. Expectativas No Habladas de Horarios — Frustración por salidas que no coinciden.
-   - 16. Edición y Eliminación de Mensajes — Borrar mensajes por inseguridad.
+   - 16. Edición y Eliminación de Mensajes — Borrar mensajes por inseguridad (Alexa 88 borrados vs Gabriel 25).
    - 17. Confundir Cansancio con Desinterés (Gabriel) — Interpretar el sueño como rechazo.
    - 18. Colgar Llamadas sin Explicación — Desconcierto por llamadas cortadas.
    - 19. Inseguridad sobre Límites de Contacto Físico — Dudas no habladas abiertamente.
@@ -80,36 +80,48 @@ El portal web interactivo contiene:
    - **Tiempo de Calidad:** Micro-citas escolares de 15 min, cita quincenal fuera de rutina, rituales de Roblox y cine, coordinación matutina, celebración de logros.
    - **Salud y Visión de Futuro:** Monitoreo activo de descanso/hidratación, reciprocidad en gastos, límites físicos claros, blindaje contra estrés ajeno, visión de equipo indestructible.
 
-4. **📊 Métricas & Gráficos Dinámicos (Chart.js):**
-   - Evolución mensual a lo largo de 19 meses.
+4. **🧭 Matriz FODA Integral de Pareja (Diagnóstico Estratégico Relacional):**
+   - **Fortalezas (F):** Constancia diaria de 405 días, alianza y equipo académico sobresaliente, complicidad (+18,600 multimedia), complementariedad de roles, lealtad y exclusividad absoluta, cuidado físico de la salud.
+   - **Oportunidades (O):** Migración de temas delicados a la presencialidad, metas y proyectos compartidos post-facultad, diversificación de citas fuera del campus, crecimiento emocional cruzado, rituales de cierre positivo (check-in dominical).
+   - **Debilidades (D):** Danza ansioso-evitativa, auto-inculpación compulsiva de Gabriel (350 perdones), repliegue defensivo y borrado de mensajes de Alexa (88 eliminados), asimetría en afecto verbal escrito, debates nocturnos con fatiga.
+   - **Amenazas (A):** Sobrecarga y burnout por exámenes universitarios, privación de sueño y desvelos, presiones familiares/externas, trampa de frialdad del texto digital.
+   - **Estrategias Cruzadas (FO, DO, FA, DA):** Plan de acción para potenciar proyectos conjuntos, erradicar la sumisión, blindar la relación contra el estrés y vetar discusiones después de las 11:00 PM.
+
+5. **📊 Métricas, Gráficos & Auditoría Forense Especial:**
+   - **Frecuencia de Disculpas (*"¿Cuántas veces han dicho perdón?"*):** Gabriel **350 veces** (94.3%) vs Alexa **21 veces** (5.7%) — *Gabriel pide perdón 16.7 veces más que Alexa*.
+   - **¿Quién ha borrado más mensajes?:** **Alexa borró más** con **88 mensajes eliminados** (77.9%) frente a **25 de Gabriel** (22.1%) — *Alexa borró 3.5 veces más*. En mensajes editados, Alexa también encabeza con **139 frente a 76 de Gabriel**.
+   - Evolución mensual a lo largo de 19 meses (Chart.js).
    - Actividad hora por hora (00:00 - 23:00).
-   - Comparativa de vocabulario de cariño (*"Te amo"*, *"Corazón"*, *"Hermosa"*, etc.).
+   - Comparativa de vocabulario de cariño y disculpas.
    - Proporción entre texto verbal y stickers/fotos.
 
-5. **🧠 Dictamen & Perspectiva Psicológica de la IA (Gabriel, Alexa y la Relación):**
+6. **🧠 Dictamen & Perspectiva Psicológica de la IA (Gabriel, Alexa y la Relación):**
    - **Diagnóstico Profundo de Gabriel:** "El Guardián Devoto y Caballero Activo" (Eneagrama 2w1, Apego Ansioso-Preocupado). Análisis de Big Five (Amabilidad 98%, Cuidado 94%, Reactividad 85%), jerarquía de lenguajes de amor (Palabras de afirmación + Actos de servicio), superpoderes de protección y admiración estética incondicional ("100000/10 autorizo"), trampa inconsciente de la auto-inculpación compulsiva y su plan de trabajo personal (la regla del celular boca abajo y erradicación de la disculpa sumisa).
    - **Diagnóstico Profundo de Alexa:** "El Ancla Pragmática y la Fortaleza Lúdica" (Eneagrama 8w9/9w8, Apego Evitativo-Protector). Análisis de Big Five (Constancia 100%, Apertura lúdica 96%, Autonomía 92%), jerarquía de lenguajes de amor (Presencia incondicional 405 días + Humor y más de 11,500 stickers y apodos íntimos), cuidado práctico de la salud y economía, mecanismo de desactivación bajo estrés (muralla de hielo "✌️ ahí queda mijo" y sarcasmo defensivo) y su plan de crecimiento (la regla de la salida suave y apertura a la ternura directa).
    - **Diagnóstico Holístico de la Relación:** Los 4 pilares inamovibles (Constancia, Cero toxicidad, Amistad real, Equipo académico), radiografía sistémica de la "Danza Ansioso-Evitativa", matriz cruzada de lecciones de vida ("¿Qué le enseña cada uno al otro?") y pronóstico relacional definitivo: **9.5 / 10 (Sobresaliente)**.
-
 
 ---
 
 ## 📊 Métricas Globales del Análisis
 
-| Métrica | Gabriel | Alexa | Total Pareja |
+| Métrica | Gabriel | Alexa | Total Pareja / Balance |
 | :--- | :---: | :---: | :---: |
 | **Mensajes Enviados** | 58,366 (54%) | 48,385 (46%) | **108,144** |
 | **Palabras Escritas** | 205,791 | 121,114 | **326,905** |
 | **Archivos Multimedia / Stickers** | 7,061 | 11,556 (62%) | **18,617** |
-| **Días Activos Ininterrumpidos** | - | - | **405 días** |
+| **Días Activos Ininterrumpidos** | - | - | **405 días** (19 meses) |
+| **Veces que ha dicho "Perdón"** | **350 (94.3%)** | **21 (5.7%)** | **371** *(Gabriel 16.7x más)* |
+| **Variantes léxicas ("perdóname/perdona")** | **361** | **26** | **387** |
+| **Mensajes Borrados (Eliminados)** | **25 (22.1%)** | **88 (77.9%)** | **113** *(Alexa borró 3.5x más)* |
+| **Mensajes Editados** | **76 (35.3%)** | **139 (64.7%)** | **215** *(Alexa editó 1.8x más)* |
 
 ---
 
 ## 🚀 Cómo Visualizarlo
 
-- **En la computadora:** Haz doble clic sobre `index.html`.
+- **En la computadora:** Haz doble clic sobre `index.html` o `analisis_pareja.html`.
 - **En el celular (vía GitHub Pages):** [https://silvermast1.github.io/analisisnosotros/](https://silvermast1.github.io/analisisnosotros/)
 
 ---
 
-*Hecho con amor y madurez para cuidar y fortalecer nuestro vínculo.* ❤️
+*Hecho con amor y madurez para cuidar, entender y fortalecer nuestro vínculo.* ❤️

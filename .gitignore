@@ -6,3 +6,4 @@ __pycache__/
 
 # Large binary/raw files
 copia.pdf
+*.txt
